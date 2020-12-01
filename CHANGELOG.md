@@ -1,4 +1,17 @@
 # 更新日志
+## 2020-11-26
+- `oppo` 增补部分型号。
+- `xiaomi` 新增 Redmi Note 9 系列（国行）。
+## 2020-11-25
+- `xiaomi` 新增 POCO M3。
+## 2020-11-23
+- `oneplus` 更新 OnePlus Nord N100 型号。
+## 2020-11-20
+- `lenovo` 新增产品 codename 代号。
+- `motorola` 新增产品 codename 代号。
+- `nokia` 新增产品 codename 代号。
+## 2020-11-19
+- `realme` 新增 realme 7 5G 国际版。
 ## 2020-11-16
 - `honor` 新增部分产品代号。
 - `huawei` 新增部分产品代号。

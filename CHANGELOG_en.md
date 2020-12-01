@@ -1,4 +1,12 @@
 # CHANGELOG
+## 2020-11-26
+- `xiaomi_en` Redmi Note 9 series (China) have been added.
+## 2020-11-25
+- `xiaomi_en` POCO M3 has been added.
+## 2020-11-23
+- `oneplus_en` Update new model of OnePlus Nord N100. 
+## 2020-11-19
+- `realme_en` Realme 7 5G has been added.
 ## 2020-11-16
 - `honor_global_en` Updated codename information.
 ## 2020-11-11

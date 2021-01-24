@@ -94,6 +94,22 @@
 
 `PEAT00`: OPPO Reno4 SE 移动版
 
+**OPPO Reno5:**
+
+`PEGM00`: OPPO Reno5 全网通版
+
+`PEGT00`: OPPO Reno5 移动版
+
+**OPPO Reno5 Pro:**
+
+`PDSM00`: OPPO Reno5 Pro 全网通版
+
+`PDST00`: OPPO Reno5 Pro 移动版
+
+**OPPO Reno5 Pro+:**
+
+`PDRM00`: OPPO Reno5 Pro+ 全网通版
+
 ## Ace 系列
 
 **OPPO Reno Ace:**
@@ -214,6 +230,12 @@
 
 `PDAT10`: OPPO A52 移动版
 
+**OPPO A53:**
+
+`PECM30`: OPPO A53 (2020) 全网通版
+
+`PECT30`: OPPO A53 (2020) 移动版
+
 **OPPO A72:**
 
 `PDYM20`: OPPO A72 全网通版
@@ -235,6 +257,12 @@
 `PDKM00`: OPPO A92s 全网通版
 
 `PDKT00`: OPPO A92s 移动版
+
+**OPPO A93:**
+
+`PEHM00`: OPPO A93 全网通版
+
+`PEHT00`: OPPO A93 移动版
 
 ## K 系列
 

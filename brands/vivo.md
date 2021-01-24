@@ -44,27 +44,39 @@
 
 **vivo X30 (`PD1938C`):**
 
-`V1938CA`: vivo X30 全网通版
+`V1938CA`: vivo X30 5G 全网通版
 
-`V1938CT`: vivo X30 移动全网通版
+`V1938CT`: vivo X30 5G 移动全网通版
 
 **vivo X30 Pro (`PD1938`):**
 
-`V1938A`: vivo X30 Pro 全网通版
+`V1938A`: vivo X30 Pro 5G 全网通版
 
-`V1938T`: vivo X30 Pro 移动全网通版
+`V1938T`: vivo X30 Pro 5G 移动全网通版
 
 **vivo X50 (`PD2001`):**
 
-`V2001A`: vivo X50 全网通版
+`V2001A`: vivo X50 5G 全网通版
 
 **vivo X50 Pro (`PD2005`):**
 
-`V2005A`: vivo X50 Pro 全网通版
+`V2005A`: vivo X50 Pro 5G 全网通版
 
 **vivo X50 Pro+ (`PD2011`):**
 
-`V2011A`: vivo X50 Pro+ 全网通版
+`V2011A`: vivo X50 Pro+ 5G 全网通版
+
+**vivo X60 (`PD2046`):**
+
+`V2046A`: vivo X60 5G 全网通版
+
+**vivo X60 Pro (`PD2047`):**
+
+`V2047A`: vivo X60 Pro 5G 全网通版
+
+**vivo X60 Pro+ (`PD2056`):**
+
+`V2056A`: vivo X60 Pro+ 5G 全网通版
 
 ## NEX 系列
 
@@ -246,6 +258,14 @@
 
 `V2034A`: vivo Y30 全网通版
 
+**vivo Y30 标准版 (`PD2036`):**
+
+`V2036A`: vivo Y30 标准版 全网通版
+
+**vivo Y31s (`PD2054`):**
+
+`V2054A`: vivo Y31s 5G 全网通版
+
 **vivo Y50 (`PD1965`):**
 
 `V1965A`: vivo Y50 全网通版
@@ -253,6 +273,10 @@
 **vivo Y51s (`PD2019`):**
 
 `V2002A`: vivo Y51s 5G 全网通版
+
+**vivo Y52s (`PD2057`):**
+
+`V2057A`: vivo Y52s 5G 全网通版
 
 **vivo Y70s (`PD2002`):**
 
@@ -324,6 +348,10 @@
 
 `V2065A`: iQOO U1x 全网通版
 
+**iQOO U3 (`PD2061`):**
+
+`V2061A`: iQOO U3 5G 全网通版
+
 **iQOO 5 (`PD2024`):**
 
 `V2024A`: iQOO 5 5G 全网通版
@@ -331,6 +359,10 @@
 **iQOO 5 Pro (`PD2025`):**
 
 `V2025A`: iQOO 5 Pro 5G 全网通版
+
+**iQOO 7 (`PD2049`):**
+
+`V2049A`: iQOO 7 5G 全网通版
 
 ## S 系列
 
@@ -363,6 +395,10 @@
 **vivo S7e (`PD2031`):**
 
 `V2031A`: vivo S7e 5G 全网通版
+
+**vivo S7e 活力版 (`PD2031E`):**
+
+`V2031EA`: vivo S7e 活力版 5G 全网通版
 
 ## U 系列
 

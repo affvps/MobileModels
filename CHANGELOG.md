@@ -1,4 +1,59 @@
 # 更新日志
+## 2021-01-22
+- `honor` 新增荣耀 V40。
+- `huawei` 新增 HUAWEI MateBook 2021 款、华为平板 C3 9.7 英寸。
+## 2021-01-21
+- `vivo` 新增 vivo X60 Pro+。
+## 2021-01-20
+- `huawei` 新增 HUAWEI nova 7 SE 5G 乐活版。
+## 2021-01-16
+- `samsung` 更正 codename。
+## 2021-01-15
+- `oppo` 新增 OPPO A93。
+## 2021-01-14
+- `samsung` 新增 Galaxy S21 系列。
+## 2021-01-11
+- `vivo` 新增 iQOO 7。
+## 2021-01-07
+- `honor` 更新部分产品代号。
+- `huawei` 新增 HUAWEI MateBook D (2021)。
+- `realme` 新增 realme V15。
+## 2021-01-01
+- `meizu` 订正魅族 17 运营商定制版信息。
+## 2020-12-30
+- `honor` 新增荣耀智慧屏 X1 75 英寸。
+## 2020-12-29
+- `vivo` 新增 X60 系列、Y31s。
+## 2020-12-27
+- `huawei` 新增 HUAWEI Mate 40E。
+- `xiaomi` 新增小米 11。
+## 2020-12-23
+- `huawei` 新增 nova 8 系列、畅享 20 SE。
+## 2020-12-21
+- `huawei` 新增华为智慧屏 S 系列。
+## 2020-12-17
+- `oppo` 新增 OPPO A53 (2020)。
+## 2020-12-16
+- `mitv` 新增印度版 Mi QLED TV。
+## 2020-12-15
+- `huawei` 更新 HUAWEI Mate 40 型号。
+- `nokia` 新增 Nokia C1 Plus。
+## 2020-12-14
+- `vivo` 新增 iQOO U3。
+## 2020-12-10
+- `oppo` 新增 OPPO Reno5 系列。
+- `vivo` 新增 vivo Y30 标准版。
+## 2020-12-09
+- `lenovo` 新增联想乐檬 K12 系列。
+- `samsung` 更新三星 W21 代号。
+## 2020-12-04
+- `vivo` 新增 vivo Y52s、vivo S7e 活力版。
+## 2020-12-03
+- `zte` 新增中兴型号汇总。
+## 2020-12-02
+- `realme` 更新部分国际机型。
+## 2020-12-01
+- `xiaomi` 新增部分国际机型。
 ## 2020-11-26
 - `oppo` 增补部分型号。
 - `xiaomi` 新增 Redmi Note 9 系列（国行）。
@@ -30,7 +85,7 @@
 ## 2020-11-02
 - `oppo` 新增 OPPO K7x。
 ## 2020-10-30
-- `samsung` 新增三星 W21 5G（代号待更新）。
+- `samsung` 新增三星 W21 5G。
 - `smartisan` 更新坚果 R2 代号。
 - `xiaomi` 新增部分国际型号。
 ## 2020-10-27

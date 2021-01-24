@@ -3,7 +3,7 @@
 - 汇总范围: 华为 Mate/P/nova/G/麦芒/畅享系列、平板电脑、MateBook、智慧屏及部分早期型号
 - codename: ✅
 - 是否包含国际机型: ❌
-- [国际机型汇总 (英文)](https://github.com/KHwang9883/MobileModels/blob/master/brands/huawei_global_en.md)
+- [国际机型汇总 (英文)](brands/huawei_global_en.md)
 
 ## HUAWEI Mate 系列
 
@@ -151,9 +151,13 @@
 
 `TAH-AN00m`: HUAWEI Mate Xs
 
+**HUAWEI Mate 40E (`ocean`):**
+
+`OCE-AN00`: HUAWEI Mate 40E 全网通版
+
 **HUAWEI Mate 40 (`ocean`):**
 
-`OCE-AN00`: HUAWEI Mate 40 全网通版
+`OCE-AN10`: HUAWEI Mate 40 全网通版
 
 **HUAWEI Mate 40 Pro (`noah`):**
 
@@ -435,9 +439,21 @@
 
 `CDY-TN00` `CDY-TN20`: HUAWEI nova 7 SE 5G 移动全网通版
 
-**HUAWEI nova 7 SE 活力版 (`cindy`):**
+**HUAWEI nova 7 SE 5G 活力版 (`cindy`):**
 
-`CND-AN00`: HUAWEI nova 7 SE 活力版 5G 全网通版
+`CND-AN00`: HUAWEI nova 7 SE 5G 活力版 全网通版
+
+**HUAWEI nova 7 SE 5G 乐活版:**
+
+`CDL-AN50`: HUAWEI nova 7 SE 5G 乐活版 全网通版
+
+**HUAWEI nova 8:**
+
+`ANG-AN00`: HUAWEI nova 8 5G 全网通版
+
+**HUAWEI nova 8 Pro:**
+
+`BRQ-AN00`: HUAWEI nova 8 Pro 5G 全网通版
 
 **HUAWEI nova 8 SE (`jessica`):**
 
@@ -687,7 +703,7 @@
 
 `DVC-TN20`: 华为畅享 20 Pro 5G 移动定制版
 
-**华为畅享 20:**
+**华为畅享 20 (`wukong`):**
 
 `WKG-AN00`: 华为畅享 20 5G 全网通版
 
@@ -698,6 +714,10 @@
 `FRL-AN00a`: 华为畅享 20 Plus 5G 全网通版
 
 `FRL-TN00`: 华为畅享 20 Plus 5G 移动定制版
+
+**华为畅享 20 SE:**
+
+`PPA-AL20`: 华为畅享 20 SE 全网通版
 
 ## 平板电脑
 
@@ -853,6 +873,10 @@
 
 `BZD-AL00` `BZD-AL10`: 华为平板 C3 8 英寸 2020 款 全网通版
 
+`BZC-W00`: 华为平板 C3 9.7 英寸 2020 款 Wi-Fi 版
+
+`BZC-AL00`: 华为平板 C3 9.7 英寸 2020 款 全网通版
+
 **华为平板 C5:**
 
 `MON-W19`: 华为平板 C5 8 英寸 Wi-Fi 版
@@ -919,6 +943,12 @@
 
 `MACHC-WAE9LP`: HUAWEI MateBook X Pro (2020) i7
 
+**HUAWEI MateBook X Pro (2021):**
+
+`MACHD-WFH9`: HUAWEI MateBook X Pro (2021) i5
+
+`MACHD-WFE9`: HUAWEI MateBook X Pro (2021) i7
+
 **HUAWEI MateBook D:**
 
 `PL-W09`: HUAWEI MateBook D i5 集显
@@ -943,7 +973,7 @@
 
 `MRC-W70`: HUAWEI MateBook D (2018) i3 集显
 
-**HUAWEI MateBook D 14 (`nobelk`):**
+**HUAWEI MateBook D 14 (`nobelK`):**
 
 `Nbl-WAQ9R`: HUAWEI MateBook D 14 R5
 
@@ -951,7 +981,7 @@
 
 `Nbl-WAQ9L`: HUAWEI MateBook D 14 R5 Linux 版
 
-**HUAWEI MateBook D 14:**
+**HUAWEI MateBook D 14 (`nobelB`):**
 
 `NbB-WAH9`: HUAWEI MateBook D 14 i5 (8GB+512GB)
 
@@ -959,11 +989,19 @@
 
 `NbB-WAE9P`: HUAWEI MateBook D 14 i7 (16GB+512GB)
 
+**HUAWEI MateBook D 14 (`nobelL`):**
+
 `NblL-WFQ9`: HUAWEI MateBook D 14 (2020) R5
 
 `NblL-WFP9`: HUAWEI MateBook D 14 (2020) R7
 
-**HUAWEI MateBook D 15:**
+**HUAWEI MateBook D 14 (`nobelD`):**
+
+`NbD-WFH9`: HUAWEI MateBook D 14 (2021) i5
+
+`NbD-WFE9`: HUAWEI MateBook D 14 (2021) i7
+
+**HUAWEI MateBook D 15 (`bohrK`):**
 
 `Boh-WAQ9R`: HUAWEI MateBook D 15 R5 (8GB+512GB)
 
@@ -971,15 +1009,25 @@
 
 `Boh-WAQ9L`: HUAWEI MateBook D 15 R5 Linux 版
 
+**HUAWEI MateBook D 15 (`bohrB`):**
+
 `BoB-WAH9`: HUAWEI MateBook D 15 i5 (8GB+512GB)
 
 `BoB-WAH9P`: HUAWEI MateBook D 15 i5 (16GB+512GB)
 
 `BoB-WAE9P`: HUAWEI MateBook D 15 i7 (16GB+512GB)
 
+**HUAWEI MateBook D 15 (`bohrL`):**
+
 `BohL-WFQ9`: HUAWEI MateBook D 15 (2020) R5
 
 `BohL-WFP9`: HUAWEI MateBook D 15 (2020) R7
+
+**HUAWEI MateBook D 15 (`bohrD`):**
+
+`BoD-WFH9`: HUAWEI MateBook D 15 (2021) i5
+
+`BoD-WFE9`: HUAWEI MateBook D 15 (2021) i7
 
 **HUAWEI MateBook E:**
 
@@ -1007,7 +1055,7 @@
 
 `HN-W19L`: HUAWEI MateBook 13 锐龙 Linux 版
 
-**HUAWEI MateBook 13 (2020) (`wrightb`):**
+**HUAWEI MateBook 13 (2020) (`wrightB`):**
 
 `WRTB-WAH9L`: HUAWEI MateBook 13 (2020) i5 (8GB+512GB)
 
@@ -1021,6 +1069,14 @@
 
 `HNL-WFP9`: HUAWEI MateBook 13 (2020) R7
 
+**HUAWEI MateBook 13 (2021) (`wrightD`):**
+
+`WRTD-WDH9`: HUAWEI MateBook 13 (2021) i5 (8GB+512GB)
+
+`WRTD-WFH9`: HUAWEI MateBook 13 (2021) i5 (16GB+512GB)
+
+`WRTD-WFE9`: HUAWEI MateBook 13 (2021) i7 (16GB+512GB)
+
 **HUAWEI MateBook 14 (`kelvin`):**
 
 `KLV-W19`: HUAWEI MateBook 14 i5
@@ -1029,7 +1085,7 @@
 
 `KLV-W29`: HUAWEI MateBook 14 i7
 
-**HUAWEI MateBook 14 (2020) (`kelvinc`):**
+**HUAWEI MateBook 14 (2020) (`kelvinC`):**
 
 `KLVC-WAH9L`: HUAWEI MateBook 14 (2020) i5 (8GB+512GB)
 
@@ -1037,11 +1093,19 @@
 
 `KLVC-WFE9L`: HUAWEI MateBook 14 (2020) i7 (16GB+512GB)
 
-**HUAWEI MateBook 14 (2020) 锐龙版 (`kelvinl`):**
+**HUAWEI MateBook 14 (2020) 锐龙版 (`kelvinL`):**
 
 `KLVL-WFH9`: HUAWEI MateBook 14 (2020) R5
 
 `KLVL-WFE9`: HUAWEI MateBook 14 (2020) R7
+
+**HUAWEI MateBook 14 (2021) (`kelvinD`):**
+
+`KLVD-WDH9`: HUAWEI MateBook 14 (2021) i5 (8GB+512GB)
+
+`KLVD-WFH9`: HUAWEI MateBook 14 (2021) i5 (16GB+512GB)
+
+`KLVD-WFE9`: HUAWEI MateBook 14 (2021) i7 (16GB+512GB)
 
 **HUAWEI MateBook B3-410:**
 
@@ -1057,13 +1121,13 @@
 
 `BBZ-WBE9`: HUAWEI MateBook B3-510 i7
 
-**HUAWEI MateBook B5-420 (`kelvinc`):**
+**HUAWEI MateBook B5-420 (`kelvinC`):**
 
 `KLCZ-WDH9`: HUAWEI MateBook B5-420
 
 ## 智慧屏
 
-**华为智慧屏 (`hege`):**
+**华为智慧屏 V 系列 (`hege`):**
 
 `HEGE-550`: 华为智慧屏 V55i-A (4GB+64GB)
 
@@ -1075,9 +1139,23 @@
 
 `HEGE-570`: 华为智慧屏 V75
 
-**华为智慧屏 (`plat`):**
+**华为智慧屏 X 系列 (`plat`):**
 
 `PLAT-760`: 华为智慧屏 X65
+
+**华为智慧屏 S 系列:**
+
+`HD55KANB`: 华为智慧屏 S 55" 60Hz (3GB+16GB)
+
+`HD55KANC`: 华为智慧屏 S 55" 60Hz (3GB+32GB)
+
+`HD65KANA`: 华为智慧屏 S 65" (3GB+16GB)
+
+`HD65KANS`: 华为智慧屏 S Pro 65" (3GB+32GB)
+
+`HD75KANA`: 华为智慧屏 S 75" (3GB+16GB)
+
+`HD75KANS`: 华为智慧屏 S Pro 75" (3GB+32GB)
 
 ## 华为早期产品 
 

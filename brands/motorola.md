@@ -2,7 +2,7 @@
 
 - 汇总范围: 2015 年起上市的机型
 - codename: ✅
-- 是否包含国际机型: ❌
+- 是否包含海外机型: ❌
 
 ## Motorola 手机
 
@@ -93,3 +93,79 @@
 **motorola razr 5G (`smith`):**
 
 `XT2071-4`: motorola razr 5G
+
+**motorola edge s (`nio`):**
+
+`XT2125-4`: motorola edge s
+
+**motorola edge 轻奢版 (`berlin`):**
+
+`XT2143-1`: motorola edge 轻奢版
+
+**motorola edge s pro (`pstar`):**
+
+`XT2153-1`: motorola edge s pro
+
+**motorola g50 (`ibiza`):**
+
+`XT2137-2`: motorola g50
+
+**moto g51 (`cypfq`):**
+
+`XT2171-3`: moto g51
+
+**moto g71 (`corfur`):**
+
+`XT2169-2`: moto g71
+
+**moto g71s (`rhodep`):**
+
+`XT2225-2`: moto g71s
+
+**moto edge S30 (`xpeng`):**
+
+`XT2175-2`: moto edge S30
+
+**moto edge X30 (`hiphic`):**
+
+`XT2201-2`: moto edge X30
+
+**moto edge X30 屏下摄像版 (`hiphid`):**
+
+`XT2201-6`: moto edge X30 屏下摄像版
+
+**moto X30 Pro (`eqs`):**
+
+`XT2241-1`: moto X30 Pro
+
+**moto S30 Pro (`tundra`):**
+
+`XT2243-2`: moto S30 Pro
+
+**moto razr 2022 (`oneli`):**
+
+`XT2251-1`: moto razr 2022
+
+**moto X40 (`rtwo`):**
+
+`XT2301-5`: moto X40
+
+**moto g53 (`penang`):**
+
+`XT2335-3`: moto g53
+
+**moto razr 40 (`lynkco`):**
+
+`XT2323-3`: moto razr 40
+
+**moto razr 40 Ultra (`zeekr`):**
+
+`XT2321-2`: moto razr 40 Ultra
+
+**moto g54 (`cancunf`):**
+
+`XT2343-3`: moto g54
+
+**moto g34 (`fogos`):**
+
+`XT2363-4`: moto g34

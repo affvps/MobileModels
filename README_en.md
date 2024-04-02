@@ -1,26 +1,34 @@
 # Mobile Models
 
 [![issues](https://img.shields.io/github/issues/KHwang9883/MobileModels?color=green)](https://github.com/KHwang9883/MobileModels/issues)
+[![prs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/KHwang9883/MobileModels/pulls)
 [![stars](https://img.shields.io/github/stars/KHwang9883/MobileModels.svg?color=yellow)](https://github.com/KHwang9883/MobileModels)
 [![forks](https://img.shields.io/github/forks/KHwang9883/MobileModels.svg?color=orange)](https://github.com/KHwang9883/MobileModels)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![chinese](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README.md)
+[![chinese](https://img.shields.io/badge/-%E4%B8%AD%E6%96%87-red.svg)](README.md)
 
 Collecting device names, models and internal codenames.
 
-Feel free to [submit an issue](https://github.com/KHwang9883/MobileModels/issues) if you find an error.
+[Issue submission](https://github.com/KHwang9883/MobileModels/issues) and [Pull Requests](https://github.com/KHwang9883/MobileModels/pulls) are welcomed if you find mistakes.
 
 Unlisted brands usually not include international models.
 
-| Branch | Brand | Range |
+| Name | Brand | Range |
 | :-: | :-: | :-: |
-| [apple_en](brands/apple_en.md) | Apple | iPhone, iPad, iPod touch and Apple Watch |
-| [honor_global_en](brands/honor_global_en.md) | HONOR | All global models |
-| [huawei_global_en](brands/huawei_global_en.md) | HUAWEI | HUAWEI Mate & P & nova series |
+| [apple_all_en](brands/apple_all_en.md) | Apple | iPhone, iPad, iPod touch and Apple Watch |
+| [blackshark_en](brands/blackshark_en.md) | Black Shark | All models |
+| [google](brands/google.md) | Google | Google Pixel phones, tablets & watch |
+| [honor_global_en](brands/honor_global_en.md) | HONOR | All international models |
+| [huawei_global_en](brands/huawei_global_en.md) | HUAWEI | HUAWEI Mate, P, nova & Y series, MediaPad & MatePad series |
 | [meizu_en](brands/meizu_en.md) | Meizu | All models |
+| [mitv_global_en](brands/mitv_global_en.md) | Xiaomi | All international/Indian Xiaomi & Redmi TV models (excluding Chinese models) |
+| [nothing](brands/nothing.md) | Nothing | All models |
 | [oneplus_en](brands/oneplus_en.md) | OnePlus | All models |
-| [realme_en](brands/realme_en.md) | realme | All models |
-| [xiaomi_en](xiaomi_en.md) | Xiaomi | Xiaomi Mi phones, Redmi phones, POCO phones and Black Shark phones |
+| [oppo_global_en](brands/oppo_global_en.md) | OPPO | International models since 2018 |
+| [samsung_global_en](brands/samsung_global_en.md) | Samsung | International models since 2019 |
+| [realme_global_en](brands/realme_global_en.md) | realme | All international models |
+| [vivo_global_en](brands/vivo_global_en.md) | vivo | International models since 2019 |
+| [xiaomi_en](xiaomi_en.md) | Xiaomi | Xiaomi phones & tablets, Redmi phones & tablets, POCO phones |
 
 ## Changelog
 
@@ -28,37 +36,21 @@ Unlisted brands usually not include international models.
 
 ## References
 
-[TENAA](http://shouji.tenaa.com.cn)
-
-[CQCCMS](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
-
-[MIIT](https://ythzxfw.miit.gov.cn/resultQuery) (Select `行政许可` `无线电和卫星通信`)
-
-[China Telecom Tianyi Devices](http://surfing.tydevice.com/pud_phone.do)
-
-[Wi-Fi Alliance](https://www.wi-fi.org)
-
-[RF Exposure - Mi Global Home](http://www.mi.com/global/certification/rfexposure/)
-
-[RF Exposure - Mi India](http://www.mi.com/in/certification/rfexposure/)
-
-[Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
-
-[Huawei Open Source Release Center](https://consumer.huawei.com/en/opensource/)
-
-[ReaMEIZU](https://reameizu.com/)
-
-[The iPhone Wiki](https://www.theiphonewiki.com)
-
-[ipsw.me](https://ipsw.me)
-
-[XDA Developers](https://www.xda-developers.com)
-
-[SLASHLEAKS](http://www.slashleaks.com)
-
-[Google Play Supported Devices](http://storage.googleapis.com/play_public/supported_devices.html)
-
-[Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
+- [TENAA](http://zd.taf.org.cn)
+- [CQCCMS](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
+- [MIIT](https://ythzxfw.miit.gov.cn/resultQuery)
+- [China Telecom Tianyi Devices](http://surfing.tydevice.com/)
+- [Wi-Fi Alliance](https://www.wi-fi.org)
+- [Bluetooth Launch Studio](https://launchstudio.bluetooth.com/Listings/Search)
+- [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
+- [Huawei Open Source Release Center](https://consumer.huawei.com/en/opensource/)
+- [ReaMEIZU](https://reameizu.com/)
+- [The iPhone Wiki](https://www.theiphonewiki.com)
+- [ipsw.me](https://ipsw.me)
+- [XDA Developers](https://www.xda-developers.com)
+- [Google Play Supported Devices](http://storage.googleapis.com/play_public/supported_devices.html)
+- [Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
+- [XSMS IMEI Database](http://xsms.com.ua/phone/imei/all/1)
 
 ## License
 

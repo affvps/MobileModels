@@ -2,7 +2,7 @@
 
 - 汇总范围: Galaxy S/Note/A/Z/M/C/J/On/Tab/心系天下系列及个别其他机型
 - codename: ✅
-- 是否包含国际机型: ❌
+- 是否包含海外机型: [单独汇总 (英文)](brands/samsung_global_en.md)
 
 ## Galaxy S 系列
 
@@ -78,7 +78,7 @@
 
 `GT-I9508V`: Galaxy S4 移动 4G 定制版
 
-**Galaxy S4 Zoon (`mproject3g`):**
+**Galaxy S4 Zoom (`mproject3g`):**
 
 `SM-C101`: Galaxy S4 zoom
 
@@ -200,6 +200,50 @@
 
 `SM-G9980`: Galaxy S21 Ultra 5G
 
+**Galaxy S21 FE (`r9q`):**
+
+`SM-G9900`: Galaxy S21 FE 5G
+
+**Galaxy S22 (`r0q`):**
+
+`SM-S9010`: Galaxy S22
+
+**Galaxy S22+ (`g0q`):**
+
+`SM-S9060`: Galaxy S22+
+
+**Galaxy S22 Ultra (`b0q`):**
+
+`SM-S9080`: Galaxy S22 Ultra
+
+**Galaxy S23 (`dm1q`):**
+
+`SM-S9110`: Galaxy S23
+
+**Galaxy S23+ (`dm2q`):**
+
+`SM-S9160`: Galaxy S23+
+
+**Galaxy S23 Ultra (`dm3q`):**
+
+`SM-S9180`: Galaxy S23 Ultra
+
+**Galaxy S23 FE (`r11q`):**
+
+`SM-S7110`: Galaxy S23 FE
+
+**Galaxy S24 (`e1q`):**
+
+`SM-S9210`: Galaxy S24
+
+**Galaxy S24+ (`e2q`):**
+
+`SM-S9260`: Galaxy S24+
+
+**Galaxy S24 Ultra (`e3q`):**
+
+`SM-S9280`: Galaxy S24 Ultra
+
 ## Galaxy Note 系列
 
 **Galaxy Note:**
@@ -290,6 +334,8 @@
 
 `SM-N9600`: Galaxy Note9 全网通版
 
+**Galaxy Note9 (`crownqltecmcc`):**
+
 `SM-N9608`: Galaxy Note9 4G+
 
 **Galaxy Note10 (`d1q`):**
@@ -307,6 +353,48 @@
 **Galaxy Note20 Ultra (`c2q`):**
 
 `SM-N9860`: Galaxy Note20 Ultra 5G
+
+## Galaxy Z 系列
+
+**Galaxy Fold (`winner`):**
+
+`SM-F9000`: Galaxy Fold
+
+**Galaxy Z Fold2 (`f2q`):**
+
+`SM-F9160`: Galaxy Z Fold2 5G
+
+**Galaxy Z Fold3 (`q2q`):**
+
+`SM-F9260`: Galaxy Z Fold3 5G
+
+**Galaxy Z Fold4 (`q4q`):**
+
+`SM-F9360`: Galaxy Z Fold4
+
+**Galaxy Z Fold5 (`q5q`):**
+
+`SM-F9460`: Galaxy Z Fold5
+
+**Galaxy Z Flip (`bloomq`):**
+
+`SM-F7000`: Galaxy Z Flip
+
+**Galaxy Z Flip 5G (`bloomxq`):**
+
+`SM-F7070`: Galaxy Z Flip 5G
+
+**Galaxy Z Flip3 (`b2q`):**
+
+`SM-F7110`: Galaxy Z Flip3 5G
+
+**Galaxy Z Flip4 (`b4q`):**
+
+`SM-F7210`: Galaxy Z Flip4
+
+**Galaxy Z Flip5 (`b5q`):**
+
+`SM-F7310`: Galaxy Z Flip5
 
 ## Galaxy A 系列
 
@@ -432,29 +520,33 @@
 
 `SM-A7160`: Galaxy A71 5G
 
+**Galaxy A52 5G (`a52xq`):**
+
+`SM-A5260`: Galaxy A52 5G
+
+**Galaxy A53 5G (`a53x`):**
+
+`SM-A5360`: Galaxy A53 5G
+
+**Galaxy A54 5G (`a54x`):**
+
+`SM-A5460`: Galaxy A54 5G
+
+**Galaxy A55 5G (`a55x`):**
+
+`SM-A5560`: Galaxy A55 5G
+
+## Galaxy F 系列
+
+**Galaxy F52 5G (`f52x`):**
+
+`SM-E5260`: Galaxy F52 5G
+
 ## Galaxy M 系列
 
 **Galaxy M30s (`m30s`):**
 
 `SM-M3070`: Galaxy M30s
-
-## Galaxy Z 系列
-
-**Galaxy Fold (`winner`):**
-
-`SM-F9000`: Galaxy Fold
-
-**Galaxy Z Flip (`bloomq`):**
-
-`SM-F7000`: Galaxy Z Flip
-
-**Galaxy Z Flip 5G (`bloomxq`):**
-
-`SM-F7070`: Galaxy Z Flip 5G
-
-**Galaxy Z Fold2 (`f2q`):**
-
-`SM-F9160`: Galaxy Z Fold2 5G
 
 ## Galaxy C 系列
 
@@ -606,17 +698,37 @@
 
 `SM-W2018`: 三星 W2018
 
-**三星 W2019:**
+**三星 W2019 (`lykanlte`):**
 
 `SM-W2019`: 三星 W2019
 
-**三星 W20 5G (`zodiac`):**
+**三星 W20 (`zodiac`):**
 
 `SM-W2020`: 三星 W20 5G
 
-**三星 W21 5G (`victory`):**
+**三星 W21 (`victory`):**
 
 `SM-W2021`: 三星 W21 5G
+
+**三星 W22 (`v2q`):**
+
+`SM-W2022`: 三星 W22 5G
+
+**三星 W23 (`v4q`):**
+
+`SM-W9023`: 三星 W23
+
+**三星 W23 Flip (`e4q`):**
+
+`SM-W7023`: 三星 W23 Flip
+
+**三星 W24 (`v5q`):**
+
+`SM-W9024`: 三星 W24
+
+**三星 W24 Flip (`e5q`):**
+
+`SM-W7024`: 三星 W24 Flip
 
 ## 三星其他手机系列
 
@@ -648,7 +760,7 @@
 
 **Galaxy Tab S 8.4 (`klimtlte`):**
 
-`SM-T705C`: Galaxy Tab S 8.4 4G
+`SM-T705C`: Galaxy Tab S 8.4 LTE
 
 **Galaxy Tab S 10.5 (`chagallwifi`):**
 
@@ -656,7 +768,7 @@
 
 **Galaxy Tab S 10.5 (`chagalllte`):**
 
-`SM-T805C`: Galaxy Tab S 10.5 4G
+`SM-T805C`: Galaxy Tab S 10.5 LTE
 
 **Galaxy Tab S2 8.0 (`gts28wifichn`):**
 
@@ -664,7 +776,7 @@
 
 **Galaxy Tab S2 8.0 (`gts28ltechn`):**
 
-`SM-T715C`: Galaxy Tab S2 8.0 4G (Exynos)
+`SM-T715C`: Galaxy Tab S2 8.0 LTE (Exynos)
 
 **Galaxy Tab S2 8.0 (`gts28vewifichn`):**
 
@@ -672,7 +784,7 @@
 
 **Galaxy Tab S2 8.0 (`gts28veltechn`):**
 
-`SM-T719C`: Galaxy Tab S2 8.0 4G (高通)
+`SM-T719C`: Galaxy Tab S2 8.0 LTE (高通)
 
 **Galaxy Tab S2 9.7 (`gts210wifichn`):**
 
@@ -680,7 +792,7 @@
 
 **Galaxy Tab S2 9.7 (`gts210ltechn`):**
 
-`SM-T815C`: Galaxy Tab S2 9.7 4G (Exynos)
+`SM-T815C`: Galaxy Tab S2 9.7 LTE (Exynos)
 
 **Galaxy Tab S2 9.7 (`gts210vewifichn`):**
 
@@ -688,7 +800,7 @@
 
 **Galaxy Tab S2 9.7 (`gts210veltechn`):**
 
-`SM-T819C`: Galaxy Tab S2 9.7 4G (高通)
+`SM-T819C`: Galaxy Tab S2 9.7 LTE (高通)
 
 **Galaxy Tab S3 (`gts3lwifichn`):**
 
@@ -696,7 +808,7 @@
 
 **Galaxy Tab S3 (`gts3lltechn`):**
 
-`SM-T825C`: Galaxy Tab S3 4G
+`SM-T825C`: Galaxy Tab S3 LTE
 
 **Galaxy Tab S4 (`gts4lwifichn`):**
 
@@ -704,7 +816,7 @@
 
 **Galaxy Tab S4 (`gts4lltechn`):**
 
-`SM-T835C`: Galaxy Tab S4 4G
+`SM-T835C`: Galaxy Tab S4 LTE
 
 **Galaxy Tab S5e (`gts4lvwifichn`):**
 
@@ -712,7 +824,7 @@
 
 **Galaxy Tab S5e (`gts4lv`):**
 
-`SM-T725C`: Galaxy Tab S5e 4G
+`SM-T725C`: Galaxy Tab S5e LTE
 
 **Galaxy Tab S6 (`gts6lwifi`):**
 
@@ -724,7 +836,7 @@
 
 **Galaxy Tab S6 Lite (`gta4xl`):**
 
-`SM-P615C`: Galaxy Tab S6 Lite 4G
+`SM-P615C`: Galaxy Tab S6 Lite LTE
 
 **Galaxy Tab S7 (`gts7lwifi`):**
 
@@ -734,6 +846,74 @@
 
 `SM-T970`: Galaxy Tab S7+ WLAN
 
+**Galaxy Tab S7 FE (`gts7xllitewifi`):**
+
+`SM-T730`: Galaxy Tab S7 FE WLAN (骁龙 750G)
+
+**Galaxy Tab S7 FE (`gts7fewifi`):**
+
+`SM-T733`: Galaxy Tab S7 FE WLAN (骁龙 778G)
+
+**Galaxy Tab S7 FE (`gts7xllite`):**
+
+`SM-T735C`: Galaxy Tab S7 FE LTE
+
+**Galaxy Tab S8 (`gts8wifi`):**
+
+`SM-X700`: Galaxy Tab S8 WLAN
+
+**Galaxy Tab S8 (`gts8`):**
+
+`SM-X706C`: Galaxy Tab S8 5G
+
+**Galaxy Tab S8+ (`gts8pwifi`):**
+
+`SM-X800`: Galaxy Tab S8+ WLAN
+
+**Galaxy Tab S8+ (`gts8p`):**
+
+`SM-X806C`: Galaxy Tab S8+ 5G
+
+**Galaxy Tab S8 Ultra (`gts8uwifi`):**
+
+`SM-X900`: Galaxy Tab S8 Ultra WLAN
+
+**Galaxy Tab S8 Ultra (`gts8u`):**
+
+`SM-X906C`: Galaxy Tab S8 Ultra 5G
+
+**Galaxy Tab S9 (`gts9wifi`):**
+
+`SM-X710`: Galaxy Tab S9 WLAN
+
+**Galaxy Tab S9+ (`gts9pwifi`):**
+
+`SM-X810`: Galaxy Tab S9+ WLAN
+
+**Galaxy Tab S9 Ultra (`gts9uwifi`):**
+
+`SM-X910`: Galaxy Tab S9 Ultra WLAN
+
+**Galaxy Tab S9 Ultra (`gts9u`):**
+
+`SM-X916C`: Galaxy Tab S9 Ultra 5G
+
+**Galaxy Tab S9 FE (`gts9fewifi`):**
+
+`SM-X510`: Galaxy Tab S9 FE WLAN
+
+**Galaxy Tab S9 FE (`gts9fe`):**
+
+`SM-X516C`: Galaxy Tab S9 FE 5G
+
+**Galaxy Tab S9 FE+ (`gts9fepwifi`):**
+
+`SM-X610`: Galaxy Tab S9 FE WLAN
+
+**Galaxy Tab S9 FE+ (`gts9fep`):**
+
+`SM-X616C`: Galaxy Tab S9 FE 5G
+
 ## Galaxy Tab A 系列
 
 **Galaxy Tab A 8.0 (`gt58wifichn`):**
@@ -742,7 +922,7 @@
 
 **Galaxy Tab A 8.0 (`gt58ltechn`):**
 
-`SM-T355C`: Galaxy Tab A 8.0 4G
+`SM-T355C`: Galaxy Tab A 8.0 LTE
 
 **Galaxy Tab A 8.0 (`gt510wifichn`):**
 
@@ -750,7 +930,7 @@
 
 **Galaxy Tab A 8.0 (`gt510ltechn`):**
 
-`SM-T555C`: Galaxy Tab A 9.7 4G
+`SM-T555C`: Galaxy Tab A 9.7 LTE
 
 **Galaxy Tab A (2016) (`gtaxlwifichn`):**
 
@@ -758,7 +938,7 @@
 
 **Galaxy Tab A (2016) (`gtaxlltechn`):**
 
-`SM-T585C`: Galaxy Tab A (2016) 10.1 4G
+`SM-T585C`: Galaxy Tab A (2016) 10.1 LTE
 
 **Galaxy Tab A (2016) with S Pen (`gtanotexlwifichn`):**
 
@@ -766,7 +946,7 @@
 
 **Galaxy Tab A (2016) (S Pen) (`gtanotexlltechn`):**
 
-`SM-P588C`: Galaxy Tab A (2016) with S Pen 10.1 4G
+`SM-P588C`: Galaxy Tab A (2016) with S Pen 10.1 LTE
 
 **Galaxy Tab A (2017) (`gta2swifichn`):**
 
@@ -774,7 +954,7 @@
 
 **Galaxy Tab A (2017) (`gta2sltechn`):**
 
-`SM-T385C`: Galaxy Tab A (2017) 8.0 4G
+`SM-T385C`: Galaxy Tab A (2017) 8.0 LTE
 
 **Galaxy Tab A (2018) (`gta2xlwifichn`):**
 
@@ -782,7 +962,7 @@
 
 **Galaxy Tab A (2018) (`gta2xlltechn`):**
 
-`SM-T595C`: Galaxy Tab A (2018) 10.5 4G
+`SM-T595C`: Galaxy Tab A (2018) 10.5 LTE
 
 **Galaxy Tab A (2019) 8.0 (`gtowifi`):**
 
@@ -790,7 +970,7 @@
 
 **Galaxy Tab A (2019) 8.0 (`gto`):**
 
-`SM-T295C`: Galaxy Tab A (2019) 8.0 4G
+`SM-T295C`: Galaxy Tab A (2019) 8.0 LTE
 
 **Galaxy Tab A (2019) 10.1 (`gta3xlwifi`):**
 
@@ -798,11 +978,35 @@
 
 **Galaxy Tab A7 (`gta4lwifi`):**
 
-`SM-T500`: Galaxy Tab A7 WLAN
+`SM-T500`: Galaxy Tab A7 10.4 WLAN
 
 **Galaxy Tab A7 (`gta4l`):**
 
-`SM-T505C`: Galaxy Tab A7 4G
+`SM-T505C`: Galaxy Tab A7 10.4 LTE
+
+**Galaxy Tab A7 Lite (`gta7litewifi`):**
+
+`SM-T220`: Galaxy Tab A7 Lite 8.7 WLAN
+
+**Galaxy Tab A7 Lite (`gta7lite`):**
+
+`SM-T225C`: Galaxy Tab A7 Lite 8.7 LTE
+
+**Galaxy Tab A8 (`gta8wifi`):**
+
+`SM-X200`: Galaxy Tab A8 WLAN
+
+**Galaxy Tab A8 (`gta8`):**
+
+`SM-X205C`: Galaxy Tab A8 LTE
+
+**Galaxy Tab A9+ (`gta9pwifi`):**
+
+`SM-X210`: Galaxy Tab A9+ WLAN
+
+**Galaxy Tab A9+ (`gta9p`):**
+
+`SM-X216C`: Galaxy Tab A9+ 5G
 
 ## Galaxy Tab 系列
 
@@ -816,7 +1020,7 @@
 
 **Galaxy Tab4 7.0 VE (`degasveltechn`):**
 
-`SM-T239C`: Galaxy Tab4 7.0 VE 4G
+`SM-T239C`: Galaxy Tab4 7.0 VE LTE
 
 **Galaxy Tab4 8.0 (`milletwifi`):**
 
@@ -849,3 +1053,65 @@
 **Galaxy TabPro S:**
 
 `SM-W700`: Galaxy TabPro S WLAN
+
+## Galaxy Watch 系列
+
+**Galaxy Watch4 (`freshbs`):**
+
+`SM-R860`: Galaxy Watch4 蓝牙版 40mm
+
+**Galaxy Watch4 (`freshbl`):**
+
+`SM-R870`: Galaxy Watch4 蓝牙版 44mm
+
+**Galaxy Watch4 Classic (`wisebs`):**
+
+`SM-R880`: Galaxy Watch4 Classic 蓝牙版 42mm
+
+**Galaxy Watch4 Classic (`wisebl`):**
+
+`SM-R890`: Galaxy Watch4 Classic 蓝牙版 46mm
+
+**Galaxy Watch4 Classic (`wiseul`):**
+
+`SM-R8950`: Galaxy Watch4 Classic LTE 46mm
+
+**Galaxy Watch5 (`heartbs`):**
+
+`SM-R900`: Galaxy Watch5 蓝牙版 40mm
+
+**Galaxy Watch5 (`heartbl`):**
+
+`SM-R910`: Galaxy Watch5 蓝牙版 44mm
+
+**Galaxy Watch5 (`heartul`):**
+
+`SM-R9150`: Galaxy Watch5 LTE 44mm
+
+**Galaxy Watch5 Pro (`projectxbl`):**
+
+`SM-R920`: Galaxy Watch5 Pro 蓝牙版 45mm
+
+**Galaxy Watch6 (`fresh6bs`):**
+
+`SM-R930`: Galaxy Watch6 蓝牙版 40mm
+
+**Galaxy Watch6 (`fresh6bl`):**
+
+`SM-R940`: Galaxy Watch6 蓝牙版 44mm
+
+**Galaxy Watch6 (`fresh6ul`):**
+
+`SM-R9450`: Galaxy Watch6 LTE 44mm
+
+**Galaxy Watch6 Classic (`wise6bs`):**
+
+`SM-R950`: Galaxy Watch6 Classic 蓝牙版 43mm
+
+**Galaxy Watch6 Classic (`wise6bl`):**
+
+`SM-R960`: Galaxy Watch6 Classic 蓝牙版 47mm
+
+**Galaxy Watch6 Classic (`wise6ul`):**
+
+`SM-R9650`: Galaxy Watch6 Classic LTE 47mm

@@ -2,9 +2,9 @@
 
 - 汇总范围: 全部机型
 - codename: ❌
-- 是否包含国际机型: ❌
+- 是否包含海外机型: ⏹
 
-## Z 系列
+## 努比亚 Z 系列
 
 **nubia Z5:**
 
@@ -112,33 +112,39 @@
 
 `NX627J`: nubia Z20
 
-## 红魔手机
+**nubia Z30 Pro:**
 
-**红魔电竞游戏手机:**
+`NX667J`: nubia Z30 Pro
 
-`NX609J`: 红魔电竞游戏手机
+**nubia Z40 Pro:**
 
-**红魔 Mars 电竞手机:**
+`NX701J`: nubia Z40 Pro
 
-`NX619J`: 红魔 Mars 电竞手机
+**nubia Z40S Pro:**
 
-**红魔 3:**
+`NX702J`: nubia Z40S Pro
 
-`NX629J`: 红魔 3
+**nubia Z50 / nubia Z50S:**
 
-**红魔 3S:**
+`NX711J`: nubia Z50 / nubia Z50S
 
-`NX629J`: 红魔 3S
+**nubia Z50 Ultra:**
 
-**红魔 5G:**
+`NX712J`: nubia Z50 Ultra
 
-`NX659J`: 红魔 5G
+**nubia Z50S Pro:**
 
-**红魔 5S:**
+`NX713J`: nubia Z50S Pro
 
-`NX659J`: 红魔 5S
+**nubia Z50 SE:**
 
-## 其他系列
+`NX715J`: nubia Z50 SE
+
+**nubia Z60 Ultra:**
+
+`NX721J`: nubia Z60 Ultra
+
+## 努比亚其他系列
 
 **nubia X6:**
 
@@ -155,6 +161,14 @@
 **nubia Play:**
 
 `NX651J`: nubia Play
+
+**nubia Flip:**
+
+`NX724J`: nubia Flip
+
+**nubia 小牛:**
+
+`NX302J`: nubia 小牛
 
 **nubia My 布拉格:**
 
@@ -185,3 +199,97 @@
 **nubia N3:**
 
 `NX608J` `NX617J`: nubia N3
+
+**nubia N5:**
+
+`NX301J`: nubia N5
+
+**nubia Neo:**
+
+`nubia 8150N`: nubia Neo 5G
+
+**nubia Neo 2:**
+
+`Z2352N`: nubia Neo 2 5G
+
+**nubia Blade A72:**
+
+`Z6255CA`: nubia Blade A72
+
+**nubia Pad 3D:**
+
+`LPD-20W`: nubia Pad 3D
+
+## 红魔
+
+**红魔电竞游戏手机:**
+
+`NX609J`: 红魔电竞游戏手机
+
+**红魔 Mars 电竞手机:**
+
+`NX619J`: 红魔 Mars 电竞手机
+
+**红魔 3:**
+
+`NX629J`: 红魔 3
+
+**红魔 3S:**
+
+`NX629J`: 红魔 3S
+
+**红魔 5G:**
+
+`NX659J`: 红魔 5G
+
+**红魔 5S:**
+
+`NX659J`: 红魔 5S
+
+**腾讯红魔游戏手机 6:**
+
+`NX669J`: 腾讯红魔游戏手机 6
+
+**腾讯红魔游戏手机 6 Pro:**
+
+`NX669J-P`: 腾讯红魔游戏手机 6 Pro
+
+**腾讯红魔游戏手机 6R:**
+
+`NX666J`: 腾讯红魔游戏手机 6R
+
+**腾讯红魔游戏手机 6S Pro:**
+
+`NX669J-S`: 腾讯红魔游戏手机 6S Pro
+
+**红魔 7:**
+
+`NX679J`: 红魔 7
+
+**红魔 7 Pro:**
+
+`NX709J`: 红魔 7 Pro
+
+**红魔 7S:**
+
+`NX679S`: 红魔 7S
+
+**红魔 7S Pro:**
+
+`NX709S`: 红魔 7S Pro
+
+**红魔 8 Pro / 红魔 8 Pro+:**
+
+`NX729J`: 红魔 8 Pro / 红魔 8 Pro+
+
+**红魔 8S Pro / 红魔 8S Pro+:**
+
+`NX729S`: 红魔 8S Pro / 红魔 8S Pro+
+
+**红魔 9 Pro / 红魔 9 Pro+:**
+
+`NX769J`: 红魔 9 Pro / 红魔 9 Pro+
+
+**红魔电竞平板:**
+
+`NP01J`: 红魔电竞平板 5G

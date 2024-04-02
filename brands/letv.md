@@ -1,10 +1,8 @@
 # 乐视手机型号汇总
 
-> 乐视手机已停止发布新产品，此汇总不再更新。
-
 - 汇总范围: 全部手机机型
 - codename: ❌
-- 是否包含国际机型: ❌
+- 是否包含海外机型: ❌
 
 **乐 1:**
 
@@ -91,3 +89,23 @@
 **未知机型:**
 
 `LEX850`: 乐视 未知机型
+
+**Letv S1:**
+
+`L5`: Letv S1 5G
+
+**Letv Y1 Pro:**
+
+`Letv L6`: Letv Y1 Pro
+
+**Letv Y1 Pro+:**
+
+`Letv L6B`: Letv Y1 Pro+
+
+**Letv Y2 Pro:**
+
+`Letv L7`: Letv Y2 Pro
+
+**Letv S1 Pro:**
+
+`Letv L8`: Letv S1 Pro 5G

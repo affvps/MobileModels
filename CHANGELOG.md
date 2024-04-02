@@ -1,4 +1,1083 @@
 # 更新日志
+## 2024-04-02
+- `coolpad` 新增 酷派大观 C60。
+- `nubia` 新增 努比亚小牛。
+- `realme_cn` 新增 真我 GT Neo6 系列。
+## 2024-04-01
+- `xiaomi` 新增 Redmi Turbo 3。
+## 2024-03-28
+- `mitv_cn` 新增 小米电视 S85 Mini LED。
+- `oneplus` 新增 OnePlus Nord 4。
+## 2024-03-26
+- `honor_cn` 新增 荣耀畅玩 50。
+- `vivo_cn` 新增 vivo Pad3 Pro。
+## 2024-03-22
+- `honor_cn` 新增 荣耀手表 GS 4。
+## 2024-03-21
+- `coolpad` 新增 酷派大观 3 Plus。
+- `xiaomi` 新增 Xiaomi Civi 4 Pro。
+- `xiaomi-wear` 新增 小米穿戴设备型号汇总。
+## 2024-03-20
+- `realme_cn` 新增 真我 12x。
+- `zte` 新增 中兴畅行 60。
+## 2024-03-19
+- `huawei_cn` 新增 华为智慧屏 V5 75。
+## 2024-03-18
+- `honor_cn` 新增 荣耀 MagicBook Pro 16, 荣耀手环 9。
+- `zhixuan` 新增 Hi 畅享 70 Pro。
+## 2024-03-14
+- `mitv_cn` 新增 小米电视 S Mini LED。
+## 2024-03-12
+- `xiaomi` 新增 POCO F6。
+## 2024-03-11
+- `oneplus` 新增 一加 Ace 3V。
+## 2024-03-08
+- `honor_cn` 新增 荣耀 Magic6 至臻版 & RSR 保时捷设计。
+- `zte` 新增 中兴远航 41S。
+## 2024-03-02
+- `nubia` 新增 nubia Flip, Neo 2, Blade A72。
+## 2024-03-01
+- `xiaomi` 新增 Redmi A3, POCO C61。
+## 2024-02-29
+- `meizu` 新增 魅族 21 PRO, 极星手机。
+- `vivo_cn` 新增 vivo X Fold3 系列, iQOO Pad Air。
+## 2024-02-22
+- `huawei_cn` 新增 HUAWEI Pocket 2, 华为畅享 70z。
+- `xiaomi` 新增 Xiaomi 14 Pro 钛金属卫星通讯版。
+## 2024-02-19
+- `xiaomi` 新增 Xiaomi Pad 6S Pro 12.4。
+## 2024-02-18
+- `vivo_cn` 新增 vivo Y100t。
+## 2024-02-06
+- `xiaomi` 新增 Xiaomi 14 Ultra。
+## 2024-02-05
+- `honor_cn` 增补 荣耀 Magic6 代号。
+## 2024-01-31
+- `coolpad` 新增 酷派大观 3, 酷派金世纪 Y60。
+- `honor_cn` 新增 荣耀平板 9 5G 版。
+## 2024-01-30
+- `huawei_cn` 新增部分商用型号。
+- `oneplus` 增补 OnePlus 12R 海外版型号。
+## 2024-01-29
+- `realme_cn` 新增 真我 12 Pro 系列。
+## 2024-01-25
+- `huawei_cn` 增补 HUAWEI MatePad 11.5 全网通版。
+## 2024-01-24
+- `coolpad` 新增 酷派大观 Y60s。
+## 2024-01-20
+- `samsung_cn` 新增 Galaxy S24 系列。
+## 2024-01-18
+- `vivo_cn` 新增 vivo G2。
+## 2024-01-17
+- `oppo_cn` 新增 OPPO Find X7 Ultra 卫星通信版。
+## 2024-01-11
+- `honor_cn` 新增 荣耀 Magic6 系列。
+- `huawei_cn` 增补 部分遗漏型号。
+- `xiaomi` 新增 POCO M6 Pro, Redmi Note 13 Pro 4G。
+## 2024-01-09
+- `asus` 新增 ROG Phone 8。
+## 2023-12-29
+- `xiaomi` 新增 Redmi Note 13 4G 国际版。
+## 2023-12-26
+- `honor_cn` 新增 荣耀 X50 Pro, 荣耀笔记本 X 2024。
+- `huawei_cn` 新增 nova 12 系列, HUAWEI MatePad Pro 13.2 典藏版。
+## 2023-12-22
+- `motorola` 新增 moto g34。
+## 2023-12-18
+- `honor_cn` 新增 荣耀 90 GT, 荣耀平板 9。
+## 2023-12-15
+- `nubia` 新增 nubia Neo 5G。
+## 2023-12-14
+- `vivo_cn` 新增 vivo S18 系列, iQOO Neo9 系列。
+## 2023-12-13
+- `nubia` 新增 nubia Z50 SE, Z60 Ultra。
+## 2023-12-11
+- `oppo_cn` 新增 OPPO Find X7 系列。
+- `xiaomi` 新增 部分 POCO 型号。
+## 2023-12-09
+- `oneplus` 新增 一加 Ace 3。
+## 2023-11-29
+- `xiaomi` 新增 部分海外型号。
+## 2023-11-28
+- `huawei_cn` 新增 HUAWEI MatePad Pro 11 2024, 畅享 70 系列。
+## 2023-11-24
+- `oppo_cn` 补充更多代号。
+## 2023-11-22
+- `vivo_cn` 新增 vivo Y12。
+## 2023-11-21
+- `realme_cn` 新增 真我 V50 系列。
+- `xiaomi` 新增 Redmi K70 系列, Note 13R Pro, POCO X6 系列。
+## 2023-11-20
+- `meizu` 新增 魅族 21。
+- `nubia` 新增 红魔 9 Pro。
+- `oppo_cn` 新增 OPPO Reno11 Pro。
+## 2023-11-18
+- `honor_cn` 新增 荣耀 100 系列。
+## 2023-11-17
+- `zhixuan` 新增 Hi nova 10 SE。
+## 2023-11-16
+- `vivo_cn` 新增 vivo Y100i。
+## 2023-11-15
+- `vivo_cn` 新增 vivo Y36。
+## 2023-11-14
+- `xiaomi` 新增 Redmi 13C, POCO C65。
+## 2023-11-02
+- `honor_cn` 新增 荣耀 X50i+。
+## 2023-11-01
+- `vivo_cn` 新增 iQOO 12 系列。
+## 2023-10-31
+- `huawei_cn` 新增 HUAWEI nova 11 SE。
+## 2023-10-27
+- `oneplus` 新增 一加 12。
+- `realme_cn` 新增 真我 GT5 Pro。
+## 2023-10-26
+- `xiaomi` 新增 Xiaomi 14 系列。
+## 2023-10-23
+- `lenovo` 新增 联想小新 Pad 2024。
+- `samsung_cn` 新增 三星 Galaxy Tab A9+。
+- `vivo_cn` 新增 vivo Y55t。
+## 2023-10-22
+- `oppo_cn` 新增 OPPO A2。
+## 2023-10-20
+- `nubia` 新增 nubia Z50S。
+- `vivo_cn` 新增 vivo X100 系列。
+## 2023-10-19
+- `meizu` 新增 魅族 20 Classic。
+## 2023-10-18
+- `mitv_cn` 新增 小米电视 A Pro 85。
+## 2023-10-17
+- `apple` 新增 iPad 第十代 eSIM 型号。
+- `honor_cn` 新增 荣耀 Play8T。
+## 2023-10-16
+- `coolpad` 新增 酷派大观 Y60。
+- `huawei_cn` 新增 HUAWEI MateBook D 14 SE 2023。
+- `lenovo` 增补 部分平板型号。
+- `oppo` 新增 OPPO Find N3。
+- `zte` 新增 中兴畅行 50。
+## 2023-10-13
+- `mitv_cn` 新增 Redmi A75 2024。
+## 2023-10-12
+- `honor_cn` 新增 荣耀手表 4 Pro。
+## 2023-10-11
+- `mitv_cn` 新增部分型号。
+## 2023-10-10
+- `honor_cn` 新增 荣耀 Magic Vs2、荣耀畅玩 50 Plus。
+- `mitv_cn` 新增 小米电视 S Pro 系列。
+- `vivo_cn` 新增 vivo Y78 (t1)。
+## 2023-10-04
+- `samsung_cn` 新增 Galaxy S23 FE、Galaxy Tab S9 FE。
+## 2023-09-27
+- `vivo_cn` 新增 vivo Y78t。
+- `xiaomi` 新增 Redmi 12 5G 日版。
+- `zhixuan` 新增 Hi 畅享 60s 5G。
+## 2023-09-26
+- `oppo_cn` 新增 OPPO A2m & A2x。
+## 2023-09-25
+- `huawei_cn` 新增 华为新品。
+## 2023-09-22
+- `apple` 新增 iPhone 15 系列、Apple Watch Series 9/Ultra 2。
+## 2023-09-21
+- `xiaomi` 新增 Redmi Note 13 系列。
+## 2023-09-19
+- `honor_cn` 新增 荣耀 X40 GT 竞速版；调整排序。
+## 2023-09-15
+- `samsung_cn` 新增 三星 W24。
+## 2023-09-11
+- `honor_cn` 新增 荣耀 V Purse。
+## 2023-09-08
+- `huawei_cn` 新增 HUAWEI Mate X5, Mate 60 Pro+。
+- `oppo_cn` 新增 OPPO A2 Pro。
+## 2023-09-05
+- `motorola` 新增 moto g54。
+## 2023-09-01
+- `sony_cn` 新增 索尼 Xperia 5 V。
+## 2023-08-31
+- `huawei_cn` 新增 华为 Vision 智慧屏 SE3。
+## 2023-08-30
+- `huawei_cn` 新增 HUAWEI Mate 60。
+- `vivo_cn` 新增 iQOO Z8 系列。
+## 2023-08-29
+- `huawei_cn` 新增 HUAWEI Mate 60 Pro。
+- `oppo_cn` 新增 OPPO Watch 4 Pro。
+## 2023-08-28
+- `realme_cn` 新增 真我 GT5。
+## 2023-08-25
+- `xiaomi` 新增 Redmi 12R。
+## 2023-08-18
+- `honor_cn` 新增 荣耀畅玩 40S, 荣耀 MagicBook 14 32GB 内存版。
+- `vivo_cn` 新增 vivo Y78+ (t1)。
+## 2023-08-17
+- `oppo_cn` 新增 OPPO Find N3 Flip。
+## 2023-08-16
+- `oneplus` 新增 一加 Ace 2 Pro。
+## 2023-08-11
+- `xiaomi` 新增 Redmi 12 5G 国行版。
+## 2023-08-10
+- `lenovo` 新增 联想小新学习平板。
+## 2023-08-09
+- `huawei_cn` 新增 HUAWEI MateBook 系列 32GB 内存版。
+## 2023-08-08
+- `360shouji` 新增 360OS M50 & T20 Pro。
+- `huawei_cn` 增补 部分穿戴设备代号。
+- `vivo_cn` 新增 vivo Y77t。
+## 2023-08-04
+- `mitv_cn` 新增 小米电视 S Pro 100。
+- `oneplus` 新增 一加 Nord CE 3。
+- `xiaomi` 新增 MIX Fold 3, Pad 6 Max, K60 至尊版, Redmi Pad SE 等。
+## 2023-07-31
+- `samsung_cn` 新增 Galaxy Z Fold5, Flip5, Watch6 系列, Tab S9 系列。
+## 2023-07-29
+- `lenovo` 新增 联想小新 Pad Pro 12.7。
+## 2023-07-27
+- `honor_cn` 新增 荣耀 MagicBook X Pro 锐龙版。
+## 2023-07-24
+- `xiaomi` 新增 Redmi 12 5G。
+## 2023-07-22
+- `zte` 新增 中兴小鲜 50。
+## 2023-07-21
+- `mitv_cn` 新增 Redmi 智能电视 A 2024 款。
+## 2023-07-20
+- `lenovo` 新增 部分平板电脑型号。
+- `vivo_cn` 新增 vivo Pad Air。
+## 2023-07-18
+- `huawei_cn` 新增 HUAWEI MatePad 11.5。
+- `oppo_cn` 新增 OPPO K11。
+## 2023-07-14
+- `honor_cn` 新增 荣耀畅玩 40C。
+## 2023-07-12
+- `honor_cn` 新增 荣耀 Magic V2 & 荣耀手表 4。
+## 2023-07-11
+- `nubia` 新增 nubia Z50S Pro。
+## 2023-07-10
+- `mitv_cn` 新增 小米电视 EA 系列 (2023)。
+## 2023-07-05
+- `honor_cn` 新增 荣耀平板 X8 Pro, MagicPad, MagicBook X16, 智慧屏 5。
+- `nubia` 新增 红魔电竞平板。
+## 2023-07-04
+- `coolpad` 新增 酷派大观 40 Pro。
+## 2023-06-29
+- `mitv_cn` 新增 小米电视 EA32 (2023)。
+## 2023-06-28
+- `honor_cn` 新增 荣耀智慧屏 Z3。
+- `huawei_cn` 新增 华为智慧屏 S3 Pro 86。
+- `zhixuan` 新增 Hi nova 11。
+## 2023-06-27
+- `xiaomi` 新增 Redmi Note 12R、部分海外型号。
+## 2023-06-26
+- `vivo_cn` 新增 iQOO 11S。
+## 2023-06-25
+- `honor_cn` 新增 荣耀 X50。
+- `nubia` 新增 红魔 8S Pro。
+## 2023-06-19
+- `mitv_cn` 新增 小米电视 EA43 (2023)。
+- `zhixuan` 新增 Hi 畅享 60 Pro。
+## 2023-06-16
+- `xiaomi` 新增 Redmi 12。
+## 2023-06-13
+- `360shouji` 新增 奇少年 Q30。
+## 2023-06-12
+- `zhixuan` 新增 麦芒 A20。
+## 2023-06-09
+- `coolpad` 新增 酷派大观 50s。
+- `zte` 新增 中兴 Axon 50 Ultra, Axon Pad。
+## 2023-06-07
+- `huawei_cn` 增补 华为通话手环 B7。
+## 2023-06-02
+- `zte` 新增 中兴 V70。
+## 2023-06-01
+- `motorola` 新增 moto razr 40 系列。
+## 2023-05-31
+- `vivo_cn` 新增 vivo S17t。
+## 2023-05-29
+- `xiaomi` 新增 Redmi Note 12T Pro。
+## 2023-05-23
+- `mitv_cn` 新增 小米电视 S85。
+## 2023-05-22
+- `huawei_cn` 新增 华为擎云 C5。
+- `xiaomi` 新增 Xiaomi Civi 3。
+## 2023-05-20
+- `oppo_cn` 新增 Reno10 系列, K11x, A1 活力版。
+- `vivo_cn` 新增 iQOO Pad。
+## 2023-05-19
+- `nubia` 新增 nubia N5, nubia Pad 3D。
+## 2023-05-18
+- `honor_cn` 新增 荣耀穿戴设备型号。
+- `huawei_cn` 新增 华为新品, 华为穿戴设备型号。
+- `oneplus` 新增 OnePlus Nord 3。
+## 2023-05-17
+- `honor_cn` 新增 荣耀 90 系列, 荣耀畅玩 40。
+## 2023-05-16
+- `coolpad` 新增 酷派 COOL 30 Pro。
+## 2023-05-15
+- `xiaomi` 增补部分设备内部名称。
+## 2023-05-11
+- `sony_cn` 新增 Xperia 1 V。
+## 2023-05-08
+- `huawei_cn` 新增部分商用型号。
+## 2023-05-07
+- `vivo_cn` 新增 X90S, S17 系列, Y35+, iQOO Neo8 系列。
+## 2023-05-03
+- `honor_cn` 新增 荣耀平板 V8。
+- `huawei_cn` 更新部分代号。
+- `mitv_cn` 新增部分型号。
+- `oneplus` 新增 OnePlus Pad。
+- `realme_cn` 新增 真我 11 系列。
+- `xiaomi` 新增 Redmi Note 12R Pro, POCO C51。
+## 2023-04-20
+- `mitv_cn` 新增 Redmi 电视 X85。
+- `oneplus` 新增 一加 Nord N30。
+- `zte` 新增 中兴远航 40。
+## 2023-04-17
+- `huawei_cn` 新增 nova 11 系列等。
+- `vivo_cn` 新增 vivo Y78, Y78+, Y78m。
+## 2023-04-16
+- `honor_cn` 新增 荣耀 X50i。
+- `mitv_cn` 新增 小米电视大师 86" Mini LED。
+## 2023-04-15
+- `zte` 新增 中兴畅行 40 SE。
+## 2023-04-13
+- `asus` 新增 ROG Phone 7。
+- `honor_cn` 新增 荣耀 MagicBook 14 2023。
+## 2023-04-09
+- `zhixuan` 新增 Hi 畅享 60 5G。
+## 2023-04-07
+- `coolpad` 新增 酷派 COOL 30。
+## 2023-04-06
+- `coolpad` 新增 酷派锋尚 40。
+- `xiaomi` 新增 Redmi Note 12S, Note 12 Pro 4G。
+## 2023-04-05
+- `oneplus` 新增 OnePlus Nord CE 3 Lite。
+## 2023-04-03
+- `oppo_cn` 新增 OPPO A1 5G (2023)。
+## 2023-04-01
+- `vivo` 新增 X Fold2, X Flip, Y11, Pad2。
+## 2023-03-30
+- `meizu_cn` 新增 魅族 20 INFINITY 无界版。
+- `oppo_cn` 新增 OPPO A1x。
+## 2023-03-28
+- `honor_cn` 新增 荣耀 Play7T 系列。
+## 2023-03-24
+- `coolpad` 新增 酷派大观 40s。
+- `zte` 新增 中兴远航 41。
+## 2023-03-23
+- `huawei_cn` 新增 HUAWEI P60, Mate X3, MatePad 11 2023。
+## 2023-03-21
+- `mitv_cn` 新增 小米电视 S 系列。
+## 2023-03-17
+- `samsung_cn` 新增 Galaxy A54。
+- `xiaomi` 新增 13 Ultra, Note 12 Turbo, 平板 6, POCO F5。
+- `zte` 新增 中兴远航 30 畅行版。
+## 2023-03-13
+- `vivo` 新增 iQOO Z7i。
+- `xiaomi` 新增 Redmi A2。
+## 2023-03-09
+- `huawei_cn` 新增 HUAWEI MateBook 13s 12 代酷睿版。
+## 2023-03-06
+- `honor_cn` 新增 荣耀 MagicBook X 14 2023。
+## 2023-03-03
+- `vivo` 新增 iQOO Z7 系列。
+- `zhixuan` 新增 麦芒 20。
+## 2023-03-02
+- `huawei_cn` 新增 nova 10 青春版。
+- `realme_cn` 新增 真我 GT Neo5 SE。
+## 2023-03-01
+- `xiaomi` 新增 Redmi Note 12 系列国际版。
+## 2023-02-28
+- `honor_cn` 新增 荣耀 MagicBook X Pro 2023。
+- `lenovo` 新增 联想拯救者 Y900。
+- `nubia` 新增 努比亚 Z50 Ultra。
+- `oneplus` 新增 一加 Ace 2V。
+## 2023-02-27
+- `honor_cn` 新增 荣耀 Magic5 系列。
+- `meizu` 新增 魅族 20 系列。
+## 2023-02-25
+- `zte` 新增 中兴天机 A41 Pro。
+## 2023-02-21
+- `xiaomi` 新增 POCO C55。
+## 2023-02-20
+- `blackshark` 将黑鲨型号独立汇总。
+## 2023-02-14
+- `coolpad` 新增 酷派手机型号汇总。
+## 2023-02-13
+- `xiaomi` 新增 Xiaomi 13 Lite 国际版。
+## 2023-02-11
+- `huawei_cn` 新增 HUAWEI MateBook E Go 2023 款。
+## 2023-02-10
+- `huawei_cn` 新增 HUAWEI MatePad SE 10.4。
+## 2023-02-09
+- `realme_cn` 新增 真我 GT Neo5, 真我 V30。
+## 2023-02-02
+- `samsung_cn` 新增 Galaxy S23 系列。
+## 2023-01-26
+- `xiaomi` 新增 POCO X5 系列。
+## 2023-01-11
+- `oneplus` 新增 一加 Ace2/11R。
+- `oppo_cn` 新增 Find X6 系列/Reno10 Pro+/Pad 2/Watch 3 SE。
+## 2023-01-09
+- `oppo_cn` 新增 OPPO A56s。
+## 2023-01-06
+- `letv` 新增 新款乐视手机型号。
+## 2023-01-05
+- `xiaomi` 新增 Redmi Note 12 系列印度版。
+## 2023-01-04
+- `oneplus` 新增 一加 11。
+## 2023-01-01
+- `vivo` 新增 vivo Y53t。
+## 2022-12-31
+- `xiaomi` 新增 Redmi 12C。
+## 2022-12-27
+- `xiaomi` 新增 Redmi K60 系列, Redmi Note 12 Pro 极速版。
+## 2022-12-26
+- `honor_cn` 新增 荣耀 80 GT, 荣耀平板 V8 Pro。
+- `nubia` 新增 红魔 8 Pro 系列。
+## 2022-12-22
+- `vivo` 新增 vivo S16 系列。
+- `zhixuan` 新增 WIKO 5G。
+## 2022-12-19
+- `nubia` 新增 nubia Z50。
+## 2022-12-15
+- `motorola` 新增 moto X40 & moto g53。
+- `oppo_cn` 新增 OPPO Find N2 系列。
+- `realme_cn` 新增 真我 10s。
+## 2022-12-13
+- `mitv_cn` 新增 小米电视 EA Pro 86。
+## 2022-12-09
+- `huawei_cn` 新增 HUAWEI nova 10 SE, 华为畅享 50z。
+## 2022-12-08
+- `vivo` 新增 iQOO 11 系列, iQOO Neo 7 SE & vivo Y35。
+## 2022-12-02
+- `360shouji` 新增 奇少年 Q20。
+## 2022-11-29
+- `xiaomi` 新增 Xiaomi 13 系列。
+## 2022-11-23
+- `honor_cn` 新增 荣耀 Magic Vs & 荣耀 80 系列。
+## 2022-11-18
+- `vivo` 新增 vivo X90 系列。
+## 2022-11-14
+- `oppo_cn` 新增 OPPO A1 Pro & Reno9 系列。
+- `realme_cn` 新增 真我 10 系列。
+## 2022-11-13
+- `zte` 新增 中兴 V70 Pro。
+## 2022-11-09
+- `honor_cn` 增补 部分笔记本型号。
+## 2022-11-02
+- `huawei_cn` 新增 华为智慧屏 V 三代。
+## 2022-11-01
+- `honor_cn` 新增 荣耀畅玩 30M。
+- `oppo_cn` 新增 OPPO A58。
+## 2022-10-27
+- `mitv_cn` 新增 Redmi 智能电视 X86。
+- `xiaomi` 新增 Redmi Note 12 系列。
+## 2022-10-25
+- `huawei_cn` 新增 MateBook D 14 SE 12 代酷睿版。 
+## 2022-10-24
+- `huawei_cn` 新增 HUAWEI Pocket S。
+- `lenovo` 新增 联想小新 Pad Plus 2023。
+## 2022-10-22
+- `samsung_cn` 新增 三星 W23。
+## 2022-10-21
+- `apple` 新增 iPad 10 & M2 iPad Pro。
+- `zte` 新增 中兴远航 40 Pro+。
+## 2022-10-20
+- `huawei_cn` 新增部分商用型号。
+- `vivo` 新增 iQOO Neo7。
+- `zhixuan` 新增 Hi nova 10 系列。
+## 2022-10-18
+- `mitv_cn` 新增 Redmi 电视 X Pro 系列。
+## 2022-10-14
+- `nokia` 新增 Nokia C31。
+## 2022-10-13
+- `honor_cn` 新增 荣耀 X40 GT & 荣耀畅玩 40 Plus。
+## 2022-10-11
+- `huawei_cn` 增补 Mate 50 系列代号。
+## 2022-10-08
+- `honor_cn` 新增 荣耀 Play6C。
+## 2022-10-06
+- `honor_cn` 新增 荣耀畅玩 20a。
+## 2022-10-04
+- `xiaomi` 新增 Redmi Note 11R & Redmi Pad。
+## 2022-10-01
+- `mitv_cn` 新增 Redmi 电视 XT 系列。
+## 2022-09-29
+- `huawei_cn` 新增 华为 Vision 智慧屏系列。
+## 2022-09-28
+- `vivo` 新增 vivo Y73t。
+## 2022-09-26
+- `zhixuan` 新增 麦芒 · 十年臻爱版。
+- `zte` 新增 中兴 Axon 30S。
+## 2022-09-21
+- `360shouji` 新增 360OS 奇少年 Q20 Pro。
+## 2022-09-20
+- `xiaomi` 新增 Xiaomi Civi 2。
+## 2022-09-19
+- `asus` 新增 ROG Phone 6D 系列。
+- `vivo` 新增 vivo X Fold+。
+## 2022-09-16
+- `vivo` 新增 vivo Y52t。
+## 2022-09-15
+- `honor_cn` 新增 荣耀 X40 & 荣耀平板 X8 等。
+## 2022-09-10
+- `apple` 新增 iPhone 14 系列 & Apple Watch Serie 8 等。
+## 2022-09-08
+- `xiaomi` 新增 Xiaomi 12T 系列全球版 & Redmi 11 Prime 印度版。
+## 2022-09-07
+- `sony_cn` 新增 Xperia 5 IV。
+- `vivo` 新增 vivo Y75s 5G。
+## 2022-09-06
+- `huawei_cn` 新增 HUAWEI Mate 50 系列等。
+## 2022-09-05
+- `xiaomi` 新增 部分海外型号。
+## 2022-08-31
+- `xiaomi` 新增 Redmi Note 11 SE 印度版。
+## 2022-08-26
+- `zhixuan` 新增 NZONE 50 Pro。
+## 2022-08-22
+- `vivo` 新增 iQOO Z6 & Z6x。
+## 2022-08-21
+- `huawei_cn` 增补部分笔记本代号。
+## 2022-08-17
+- `lenovo` 新增 联想小新 Pad Pro 2022。
+## 2022-08-16
+- `zte` 新增 中兴远航 30S。
+## 2022-08-14
+- `samsung_cn` 新增 Galaxy Z Fold4 & Flip4 国行版。
+## 2022-08-11
+- `vivo` 新增 vivo Y32t & Y77e。
+- `xiaomi` 新增 Redmi K50 至尊版。
+## 2022-08-10
+- `oppo_cn` 新增 OPPO Watch 3。
+## 2022-08-09
+- `xiaomi` 新增 Xiaomi MIX Fold 2 & 小米平板 5 Pro 12.4。
+## 2022-08-04
+- `oneplus` 新增 一加 Ace Pro / 10T。
+## 2022-08-02
+- `motorola` 新增 moto X30 Pro, S30 Pro, razr 2022。
+## 2022-07-27
+- `huawei_cn` 新增 HUAWEI MatePad Pro 11, MateBook X Pro, 智慧屏 S 系列等。
+- `lenovo` 新增 联想拯救者 Y70。
+- `xiaomi` 新增 Redmi 10A Sport 印度版。
+## 2022-07-21
+- `honor_cn` 新增 荣耀平板 8, 荣耀智慧屏 X3 系列, 荣耀 MagicBook 14 锐龙版。
+- `oppo_cn` 新增 OPPO K10 活力版。
+## 2022-07-20
+- `oppo_cn` 增补 OPPO Watch Free。
+- `xiaomi` 新增 Redmi K50i 印度版。
+## 2022-07-19
+- `vivo` 新增 iQOO 10 系列。
+## 2022-07-15
+- `mitv_cn` 新增 小米电视 ES Pro 系列。
+## 2022-07-13
+- `honor_cn` 新增 荣耀 X40i。
+## 2022-07-11
+- `asus` 新增 华硕 ROG Phone 型号汇总。
+- `nubia` 新增 红魔 7S 系列 & nubia Z40S Pro。
+- `oppo_cn` 新增 OPPO A97。
+## 2022-07-09
+- `meizu` 新增 魅蓝 10s。
+## 2022-07-08
+- `vivo` 新增 vivo Y10 (t2 版)。
+## 2022-07-05
+- `vivo` 新增 vivo Y77 5G。
+## 2022-07-04
+- `huawei_cn` 新增 nova 10 系列。
+- `xiaomi` 新增 Xiaomi 12S 系列。
+## 2022-06-26
+- `zte` 新增 中兴畅行 30。
+## 2022-06-23
+- `huawei_cn` 新增 华为畅享 50 Pro。
+- `oneplus` 新增 OnePlus Nord 2T。
+## 2022-06-18
+- `realme_cn` 新增 真我 GT2 大师探索版 & Q5x。
+## 2022-06-16
+- `xiaomi` 新增 POCO F4 印度版。
+## 2022-06-11
+- `mitv_cn` 新增 小米电视 EA Pro 系列。
+## 2022-06-10
+- `realme_cn` 新增 真我 V20 & V23i。
+- `xiaomi` 新增 黑鲨 5 国际版 & POCO X4 GT。
+- `zhixuan` 新增 优畅享 50。
+## 2022-06-06
+- `huawei_cn` 新增 华为畅享 50。
+- `mitv_cn` 新增 小米盒子 4S MAX。
+## 2022-06-04
+- `mitv_cn` 新增 Redmi AI 智能电视 X 系列。
+## 2022-06-02
+- `vivo` 新增 iQOO U5e。
+- `zhixuan` 新增 TD Tech P50。
+## 2022-05-30
+- `honor_cn` 新增 荣耀 70 系列。
+## 2022-05-29
+- `vivo` 新增 vivo T2x。
+## 2022-05-28
+- `vivo` 新增 vivo Y33e。
+## 2022-05-26
+- `realme_cn` 新增 真我平板 X。
+## 2022-05-24
+- `xiaomi` 新增 Redmi Note 11SE。
+## 2022-05-23
+- `honor_cn` 增补部分代号信息。
+- `huawei_cn` 新增 HUAWEI MateBook 系列 2022 款。
+- `lenovo` 新增 小新 Pad 2022。
+- `mitv_cn` 新增 小米电视 ES Pro 86。
+- `oppo_cn` 新增 Reno8 系列, K10x & OPPO Pad Air。
+- `sony_cn` 新增 索尼手机型号汇总。
+## 2022-05-21
+- `vivo` 新增 vivo Y72t。
+- `xiaomi` 新增 Redmi Note 11T 系列等。
+## 2022-05-19
+- `vivo` 新增 vivo S15 系列 & T2。
+## 2022-05-17
+- `motorola` 新增 moto g71s。
+- `oneplus` 新增 一加 Ace 竞速版。
+## 2022-05-16
+- `honor_cn` 新增 荣耀 MagicBook 14 2022。
+- `zte` 新增 中兴天机 A41 系列。
+## 2022-05-08
+- `zte` 新增 中兴 Axon 40 系列。
+## 2022-05-07
+- `honor_cn` 新增 荣耀畅玩 30。
+## 2022-05-06
+- `vivo` 新增 iQOO Neo6 SE。
+## 2022-04-30
+- `lenovo` 新增 联想平板电脑系列（部分型号）。
+## 2022-04-28
+- `huawei_cn` 新增 HUAWEI Mate Xs 2 等。
+## 2022-04-27
+- `zhixuan` 新增 Hi nova 9z。
+## 2022-04-25
+- `mitv_cn` 新增 Redmi 智能电视 A 2022 款 & 小米电子水牌。
+- `vivo` 新增 vivo X80 系列 & vivo S15e。
+## 2022-04-20
+- `honor_cn` 新增 荣耀 MagicBook X 2022 款。
+- `xiaomi` 新增 Redmi 10 Power 印度版。
+## 2022-04-18
+- `lenovo` 新增 联想平板电脑系列（部分型号）。
+- `oppo_cn` 新增 OPPO K10 系列。
+- `xiaomi` 新增 Xiaomi Civi 1S。
+## 2022-04-14
+- `oneplus` 新增 一加 10R / 一加 Nord CE 2 Lite 印度版。
+- `xiaomi` 新增 Redmi Note 10T 日版。
+- `zte` 新增 中兴远航 30 系列。
+## 2022-04-13
+- `oneplus` 新增 一加 Ace。
+- `realme_cn` 新增 真我 Q5 系列 & 真我 V23。
+## 2022-04-12
+- `oppo_cn` 新增 OPPO A57 (2022)。
+## 2022-04-02
+- `honor_cn` 新增 荣耀 Play6T 系列。
+- `motorola` 更新产品代号。
+## 2022-03-30
+- `xiaomi` 新增 黑鲨 5 系列。
+## 2022-03-29
+- `honor_cn` 增补 荣耀平板 Z3。
+- `vivo` 新增 vivo X Fold, X Note & vivo Pad 及 iQOO Neo6。
+## 2022-03-26
+- `zhixuan` 新增 优畅享 50 Plus。
+## 2022-03-25
+- `vivo` 新增 iQOO U5x。
+## 2022-03-22
+- `realme_cn` 新增 真我 GT Neo3。
+- `zhixuan` 新增 麦芒 11。
+## 2022-03-21
+- `zhixuan` 新增 TD Tech（鼎桥）型号。
+## 2022-03-17
+- `honor_cn` 新增 荣耀 Magic4 系列。
+- `mitv_cn` 新增 Redmi MAX 智能电视 100 英寸。
+- `samsung_cn` 新增 三星 Galaxy A53 5G。
+- `xiaomi` 新增 Redmi 10 系列 & K40S、K50 系列等。
+## 2022-03-16
+- `huawei_cn` 新增 HUAWEI P50E & nova 9 SE。
+## 2022-03-15
+- `apple` 新增 iPhone SE 3 & iPad Air 5；单独汇总国行型号；新增设备内部代号。
+## 2022-03-03
+- `realme_cn` 新增 真我 V25。
+## 2022-03-02
+- `motorola` 新增 moto edge X30 屏下摄像头版。
+## 2022-03-01
+- `xiaomi` 新增 Redmi Note 11E 5G。
+## 2022-02-28
+- `huawei_cn` 增补 部分笔记本/平板型号；新增 HUAWEI Mate 40E Pro。
+- `lenovo` 新增 联想拯救者 Y90。
+## 2022-02-25
+- `xiaomi` 新增 部分待发布型号。
+## 2022-02-24
+- `oppo_cn` 新增 OPPO Find X5 系列 & OPPO Pad。
+## 2022-02-17
+- `oneplus` 新增 OnePlus Nord CE 2 印度版。
+## 2022-02-16
+- `nubia` 新增 红魔 7 系列 & 努比亚 Z40 Pro。
+## 2022-02-12
+- `samsung_cn` 新增 Galaxy S22 & Tab S8 系列 国行版。
+## 2022-02-09
+- `xiaomi` 新增 Redmi K50 电竞版。
+## 2022-02-08
+- `honor_cn` 新增 荣耀 60 SE。
+## 2022-01-26
+- `xiaomi` 新增 Redmi Note 11 系列海外版。
+## 2022-01-24
+- `zhixuan` 新增 华为智选手机型号汇总。
+## 2022-01-19
+- `xiaomi` 新增 Xiaomi 11T Pro 印度版。
+## 2022-01-14
+- `vivo` 新增 vivo Y10 & Y33s。
+## 2022-01-13
+- `huawei_cn` 新增 HUAWEI MateBook D 14 SE。
+## 2022-01-12
+- `oppo_cn` 新增 OPPO A36。
+## 2022-01-11
+- `meizu` 新增 魅蓝 10。
+- `oneplus` 新增 一加 10 Pro。
+## 2022-01-10
+- `honor_cn` 新增 荣耀 Magic V。
+## 2022-01-05
+- `vivo` 新增 iQOO 9 系列。
+## 2022-01-04
+- `oppo_cn` 新增 OPPO A96。
+- `realme_cn` 新增 真我 GT2 系列。
+- `samsung_cn` 新增 Galaxy S21 FE & Galaxy Tab A8。
+## 2021-12-31
+- `huawei_cn` 新增部分商用系列型号。
+## 2021-12-28
+- `xiaomi` 新增 Xiaomi 12 系列。
+## 2021-12-23
+- `huawei_cn` 新增 HUAWEI P50 Pocket。
+- `oppo_cn` 新增 OPPO K9x。
+## 2021-12-22
+- `mitv_cn` 新增 Redmi 智能电视 X50 2022 款。
+- `vivo` 新增 vivo S12 系列。
+## 2021-12-20
+- `vivo` 新增 iQOO Neo5S & Neo5 SE & U5。
+## 2021-12-17
+- `honor_cn` 新增 荣耀 60 Pro 移动版。
+## 2021-12-16
+- `honor_cn` 新增 荣耀 X30 & 荣耀畅玩 30 Plus。
+- `huawei_cn` 新增 HUAWEI MateBook D (2022)。
+## 2021-12-14
+- `oppo_cn` 新增 OPPO Find N。
+## 2021-12-09
+- `xiaomi` 新增 Xiaomi 11 青春活力版。
+## 2021-12-08
+- `360shouji` 新增 360OS 奇少年手机。
+## 2021-12-07
+- `mitv_cn` 新增 小米电视 ES50 2022 款。
+## 2021-12-06
+- `vivo` 新增 vivo Y32 & Y55s。
+## 2021-12-01
+- `honor_cn` 新增 荣耀 60 系列。
+- `motorola` 新增 摩托罗拉 edge X30 & S30。
+## 2021-11-28
+- `nokia` 新增 Nokia T20。
+## 2021-11-25
+- `honor_cn` 新增 荣耀智慧屏 X2 43 英寸。
+- `huawei_cn` 新增 HUAWEI nova 8 SE 4G & 华为擎云 L410。
+- `oppo_cn` 新增 OPPO Reno7 系列。
+- `xiaomi` 新增 Redmi Note 11 4G & Redmi 10 2022 国际版。
+- `zte` 新增 中兴远航 20 Pro。
+## 2021-11-21
+- `vivo` 新增 vivo Y74s。
+## 2021-11-19
+- `vivo` 新增 vivo Y50t。
+## 2021-11-18
+- `motorola` 新增 摩托罗拉 g51 & g71。
+- `vivo` 新增 vivo Y54s。
+## 2021-11-17
+- `huawei_cn` 新增 HUAWEI Mate X2 典藏版 & HUAWEI MateBook E (2021)。
+## 2021-11-10
+- `vivo` 新增 vivo Y76s。
+## 2021-11-09
+- `realme_cn` 新增 真我 Q3t。
+## 2021-11-08
+- `vivo` 新增 vivo Y31s (t2 版)。
+## 2021-11-02
+- `xiaomi` 新增部分海外型号。
+## 2021-10-28
+- `honor_cn` 新增 荣耀 X30i。
+## 2021-10-27
+- `xiaomi` 新增 Redmi Note 11 系列。
+## 2021-10-26
+- `oppo_cn` 新增 OPPO A56。
+## 2021-10-25
+- `honor_cn` 新增 荣耀 Play5 活力版。
+- `vivo` 增补部分型号。
+## 2021-10-22
+- `huawei_cn` 新增 HUAWEI MateBook 14 (2021) 锐龙版。
+## 2021-10-20
+- `huawei_cn` 新增 华为畅享 20e。
+- `mitv_cn` 新增 Redmi 智能电视 X 2022。
+- `oppo_cn` 新增 OPPO K9s。
+- `vivo` 新增 iQOO Z5x & vivo T1 & T1x。
+## 2021-10-19
+- `realme_cn` 新增 真我 GT Neo2T & 真我 Q3s。
+## 2021-10-16
+- `apple` 新增 Apple Watch Series 7。
+- `samsung` 新增 三星 W22。
+## 2021-10-15
+- `huawei_cn` 新增 HUAWEI MateBook X (2021)。
+## 2021-10-14
+- `nokia` 新增 Nokia G50。
+## 2021-10-13
+- `xiaomi` 新增 黑鲨 4S 系列。
+## 2021-10-08
+- `oneplus` 新增 OnePlus 9RT。
+- `oppo_cn` 新增 OPPO A11s。
+## 2021-10-03
+- `huawei_cn` 增补部分代号信息。
+## 2021-10-01
+- `xiaomi` 新增 Redmi Note 10 Lite 印度版。
+## 2021-09-30
+- `xiaomi` 新增 POCO C31。
+## 2021-09-28
+- `xiaomi` 增补印度版 Redmi 9 系列。
+## 2021-09-27
+- `xiaomi` 新增 Xiaomi Civi。
+## 2021-09-26
+- `honor_cn` 新增荣耀智慧生活新品。
+## 2021-09-24
+- `apple` 新增 iPhone 13 & iPad 9 & iPad mini 6。
+- `realme_cn` 新增 realme 真我 V11s。
+## 2021-09-23
+- `vivo` 新增 iQOO Z5。
+## 2021-09-22
+- `realme_cn` 新增 realme 真我 GT Neo2。
+## 2021-09-19
+- `huawei_cn` 新增 HUAWEI nova 9 系列。
+## 2021-09-17
+- `honor_cn` 新增 荣耀畅玩 20 Pro & 荣耀 X30 Max。
+## 2021-09-16
+- `oppo_cn` 新增 OPPO K9 Pro。
+## 2021-09-15
+- `xiaomi` 新增 小米 11T 系列 & 小米 11 Lite 5G NE。
+## 2021-09-14
+- `honor_cn` 增补部分荣耀 MagicBook 型号。
+- `huawei_cn` 增补 & 新增 HUAWEI MateBook 系列。
+- `huawei_cn` 增补部分华为智慧屏型号。
+- `meizu` 新增 魅族 18X & 18s 系列。
+## 2021-09-09
+- `vivo` 新增 vivo X70 系列 & vivo S10e。
+## 2021-09-03
+- `xiaomi` 新增 Redmi 10 Prime 印度版。
+## 2021-09-02
+- `realme` 增补部分国际型号。
+## 2021-08-24
+- `vivo` 新增 iQOO 8 Monster 版本。
+## 2021-08-23
+- `nubia` 新增 腾讯红魔游戏手机 6S Pro。
+- `xiaomi` 新增 Redmi 10 国际版 (NFC)。
+## 2021-08-20
+- `huawei` 增补部分型号。
+## 2021-08-18
+- `xiaomi` 新增 Redmi 10 国际版。
+## 2021-08-17
+- `realme` 增补 & 修正。
+- `vivo` 新增 iQOO 8 系列。
+## 2021-08-14
+- `samsung` 新增 Galaxy Z Fold3 & Flip3。
+- `xiaomi` 修正 Redmi Note 10T & POCO M3 Pro 印度版 codename。
+## 2021-08-12
+- `honor` 新增 荣耀 Magic3 系列 & 荣耀平板 V7 Pro。
+## 2021-08-10
+- `mitv` 新增小米电视 OLED 系列。
+- `oppo` 增补 OPPO Watch 2 42mm 蓝牙版。
+- `xiaomi` 新增 MIX 4 & 小米平板 5 系列。
+## 2021-08-05
+- `honor` 新增 荣耀 X20 & 荣耀 Play5T Pro。
+- `motorola` 新增 摩托罗拉 edge 系列。
+## 2021-08-04
+- `oneplus` 新增 OnePlus Nord 2 欧洲版 & 部分机型代号/版本描述修正。
+- `oppo` 添加 OPPO Watch 和 OPPO Watch 2。
+- `xiaomi` 新增 小米米家翻译机 & 小米手表。
+## 2021-08-03
+- `oneplus` 新增 OnePlus Nord N200 & Nord 2。
+- `xiaomi` 新增 Redmi Note 10 JE。
+## 2021-07-29
+- `huawei` 新增 HUAWEI P50 系列。
+## 2021-07-27
+- `zte` 新增中兴 Axon 30。
+## 2021-07-26
+- `huawei` 新增 HUAWEI nova 8 SE 活力版。
+## 2021-07-22
+- `vivo` 新增 vivo Y53s (t1 版)。
+## 2021-07-21
+- `realme` 新增真我 GT 大师系列。
+## 2021-07-19
+- `xiaomi` 新增 POCO X3 GT 国际版。
+## 2021-07-16
+- `vivo` 新增 vivo S10 系列。
+- `xiaomi` 新增 POCO F3 GT 印度版。
+## 2021-07-14
+- `lenovo` 增补拯救者 2 Pro codename。
+- `zte` 增补部分型号。
+## 2021-07-04
+- `realme` 增补部分国际型号。
+- `xiaomi` 增补部分型号。
+## 2021-07-01
+- `zte` 新增中兴天机 A31 系列。
+## 2021-06-30
+- `honor` 新增荣耀 X20 SE。
+## 2021-06-28
+- `mitv` 新增小米电视 ES 2022 款、小米电视 6 至尊版。
+## 2021-06-26
+- `oppo` 新增 OPPO A93s。
+## 2021-06-21
+- `zte` 增补部分型号。
+## 2021-06-19
+- `mitv` 新增 Redmi 智能电视 42 英寸。
+## 2021-06-16
+- `honor` 新增荣耀 50 系列。
+- `nokia` 新增 Nokia C20 Plus，增加完整 codename。
+- `realme` 新增 realme GT 国际版。
+- `vivo` 新增 vivo Y31s (t1 版)。
+## 2021-06-11
+- `oneplus` 新增 OnePlus Nord CE 5G。
+## 2021-06-10
+- `samsung` 新增 Galaxy Tab S7 FE & Galaxy Tab A7 Lite。
+- `xiaomi` 订正部分黑鲨手机型号；订正部分日版型号。
+## 2021-06-08
+- `vivo` 新增 vivo Y53s。
+## 2021-06-07
+- `vivo` 新增 vivo X60t Pro+。
+## 2021-06-06
+- `vivo` 新增 iQOO U3x 标准版。
+## 2021-06-03
+- `honor` 增补个别遗漏型号。
+- `huawei` 新增 HUAWEI MatePad 11。
+## 2021-06-02
+- `honor` 新增荣耀平板 V6 新版。
+- `huawei` 新增 HUAWEI MatePad Pro (2021)。
+- `xiaomi` 新增 Redmi Note 10 5G & POCO M3 Pro 5G 印度版。
+## 2021-05-31
+- `realme` 新增 realme X7 Max 印度版。
+## 2021-05-27
+- `huawei` 新增 HUAWEI MateBook D AMD 锐龙版 (2021)。
+## 2021-05-26
+- `xiaomi` 新增 Redmi Note 10 系列（国行）。
+## 2021-05-25
+- `huawei` 新增华为部分手机 4G 版本。
+- `realme` 新增真我 Q3 Pro 狂欢版、真我 GT Neo 闪速版；增补部分国际型号。
+## 2021-05-23
+- `apple` 新增 iPad Pro (2021)。
+## 2021-05-22
+- `vivo` 新增 vivo X60 曲屏版、vivo Y70t。
+## 2021-05-21
+- `nubia` 新增红魔 6R。
+- `realme` 增补部分国际型号。
+## 2021-05-20
+- `oppo` 新增 OPPO Reno6 系列。
+## 2021-05-19
+- `huawei` 新增华为部分新品。
+## 2021-05-18
+- `honor` 新增荣耀 Play5。
+- `xiaomi` 新增 Redmi Note 8 (2021)。
+## 2021-05-17
+- `nubia` 新增努比亚 nubia Z30 Pro。
+- `vivo` 新增 iQOO Neo5 活力版。
+## 2021-05-16
+- `samsung` 新增 Galaxy F52 5G。
+## 2021-05-08
+- `honor` 新增 MagicBook X 系列、荣耀平板 X7 8 英寸。
+- `xiaomi` 增补部分国际型号。
+## 2021-05-05
+- `huawei` 增补部分产品信息。
+- `honor` 增补部分产品信息。
+## 2021-05-02
+- `vivo` 新增 vivo Y52s (t1 版)。
+## 2021-04-27
+- `xiaomi` 新增 Redmi K40 游戏增强版。
+## 2021-04-26
+- `honor` 新增荣耀畅玩 20。
+## 2021-04-25
+- `motorola` 新增 motorola g50。
+## 2021-04-21
+- `oppo` 新增 OPPO K9。
+## 2021-04-20
+- `honor` 新增荣耀 Play5T 活力版。
+- `vivo` 新增 vivo Y30 活力版。
+## 2021-04-17
+- `oneplus` 更新 OnePlus 9R 代号信息。
+- `realme` 增补部分国际型号，新增 realme 真我 Q3 系列。
+## 2021-04-16
+- `mitv` 新增小米电视 EA 2022；将国际型号单独汇总。
+- `oppo` 新增 OPPO A95。
+## 2021-04-15
+- `zte` 新增中兴 Axon 30 系列。
+## 2021-04-12
+- `realme` 订正部分国内型号。
+- `xiaomi` 新增部分 Redmi Note 10 系列型号。
+## 2021-04-09
+- `realme` 新增 realme C20、C21、C25（印度）。
+## 2021-04-08
+- `huawei` 新增华为智慧屏 V 系列 2021 款。
+- `lenovo` 新增拯救者电竞手机 2 Pro。
+## 2021-04-02
+- `realme` 新增 realme 真我 X7 Pro 至尊版。
+- `vivo` 新增 vivo X60t。
+## 2021-03-31
+- `realme` 新增 realme 真我 V13。
+## 2021-03-30
+- `xiaomi` 新增 MIX FOLD、POCO X3 Pro 印度版。
+- `zte` 新增中兴 S30 系列。
+## 2021-03-29
+- `oneplus` 新增 OnePlus 9 系列。
+- `realme` 新增 realme GT Neo。
+- `xiaomi` 新增小米 11 系列新品。
+## 2021-03-25
+- `realme` 新增 realme 8 系列印度版。
+## 2021-03-23
+- `xiaomi` 新增 POCO F3、POCO X3 Pro、黑鲨 4 系列。
+## 2021-03-22
+- `honor` 新增荣耀 V40 轻奢版、荣耀平板 7。
+- `vivo` 新增 iQOO Z3、iQOO U3x。
+## 2021-03-21
+- `oppo` 新增 OPPO A35。
+## 2021-03-19
+- `huawei` 增补华为智慧屏代号信息。
+## 2021-03-17
+- `samsung` 新增三星 Galaxy A52 5G。
+## 2021-03-16
+- `vivo` 新增 iQOO Neo5。
+## 2021-03-15
+- `oneplus` 更新 Nord 系列区域信息。
+- `xiaomi` 订正部分信息。
+## 2021-03-11
+- `oppo` 新增 OPPO Find X3 系列。
+## 2021-03-10
+- `huawei` 更新 HUAWEI Mate 40 系列型号。
+- `xiaomi` 新增小米 10S。
+## 2021-03-09
+- `vivo` 新增 vivo Y31s 标准版。
+## 2021-03-05
+- `mitv` 遗漏补充。
+## 2021-03-04
+- `nubia` 新增腾讯红魔游戏手机 6 系列。
+- `vivo` 新增 vivo S9。
+- `xiaomi` 新增 Redmi Note 10 系列（海外）。
+## 2021-03-03
+- `meizu` 新增魅族 18 系列。
+- `realme` 新增 realme 真我 GT。
+## 2021-02-26
+- `huawei` 新增 HUAWEI P40 4G 版。
+- `xiaomi` 更新 Redmi 9T 代号信息。
+## 2021-02-25
+- `mitv` 新增 Redmi 智能电视 MAX 86 英寸。
+- `xiaomi` 新增 Redmi K40 系列。
+## 2021-02-24
+- `oppo` 新增 OPPO Reno5 K。
+- `realme` 新增 realme Narzo 30 系列。
+## 2021-02-22
+- `huawei` 新增 HUAWEI Mate X2。
+## 2021-02-05
+- `realme` 新增 realme 真我 V11。
+## 2021-02-02
+- `realme` 增补部分产品型号。
+- `xiaomi` 更新 Redmi 部分产品国际型号。
+## 2021-01-29
+- `vivo` 新增 vivo S7t。
+## 2021-01-26
+- `motorola` 新增 motorola edge s。
+## 2021-01-25
+- `huawei` 更新部分产品代号。
+- `honor` 新增荣耀 MagicBook 2021 款。
+- `oppo` 新增 OPPO A55。
 ## 2021-01-22
 - `honor` 新增荣耀 V40。
 - `huawei` 新增 HUAWEI MateBook 2021 款、华为平板 C3 9.7 英寸。
